@@ -1,0 +1,6 @@
+
+theme stack
+  trace verse
+  batch stack
+
+  state stack, field stack

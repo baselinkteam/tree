@@ -1,0 +1,1120 @@
+
+field sheet
+  state rule, match chain, match rule
+field rule
+  state comment, match chain, match comment
+field selector
+  match rule
+  state path, match chain, match chord
+  state declaration, match chain, match declaration
+field path
+  state node, match chain, match chord
+field pseudo selector
+  match selector
+field comment
+  state text, match chord
+field comment block
+field comment line
+field import
+  match rule
+  state path
+field media
+  match rule
+field document
+  match rule
+field charset
+  match rule
+field namespace
+  match rule
+field supports
+  match rule
+field keyframe-list
+  match rule
+field keyframe
+  match rule
+field page
+  match rule
+field font
+  match rule
+field host
+  match rule
+field custom-media
+  match rule
+field declaration
+field background-declaration
+  state color
+  state url
+
+field accent-color-declaration
+
+field align-content-declaration
+
+field align-items-declaration
+
+field align-self-declaration
+
+field alignment-baseline-declaration
+
+field all-declaration
+
+field animation-declaration
+
+field animation-delay-declaration
+
+field animation-direction-declaration
+
+field animation-duration-declaration
+
+field animation-fill-mode-declaration
+
+field animation-iteration-count-declaration
+
+field animation-name-declaration
+
+field animation-play-state-declaration
+
+field animation-timing-function-declaration
+
+field appearance-declaration
+
+field aspect-ratio-declaration
+
+field azimuth-declaration
+
+field backface-visibility-declaration
+
+field background-declaration
+
+field background-attachment-declaration
+
+field background-blend-mode-declaration
+
+field background-clip-declaration
+
+field background-color-declaration
+
+field background-image-declaration
+
+field background-origin-declaration
+
+field background-position-declaration
+
+field background-repeat-declaration
+
+field background-size-declaration
+
+field baseline-shift-declaration
+
+field baseline-source-declaration
+
+field block-ellipsis-declaration
+
+field block-size-declaration
+
+field block-step-declaration
+
+field block-step-align-declaration
+
+field block-step-insert-declaration
+
+field block-step-round-declaration
+
+field block-step-size-declaration
+
+field bookmark-label-declaration
+
+field bookmark-level-declaration
+
+field bookmark-state-declaration
+
+field border-declaration
+
+field border-block-declaration
+
+field border-block-color-declaration
+
+field border-block-end-declaration
+
+field border-block-end-color-declaration
+
+field border-block-end-style-declaration
+
+field border-block-end-width-declaration
+
+field border-block-start-declaration
+
+field border-block-start-color-declaration
+
+field border-block-start-style-declaration
+
+field border-block-start-width-declaration
+
+field border-block-style-declaration
+
+field border-block-width-declaration
+
+field border-bottom-declaration
+
+field border-bottom-color-declaration
+
+field border-bottom-left-radius-declaration
+
+field border-bottom-right-radius-declaration
+
+field border-bottom-style-declaration
+
+field border-bottom-width-declaration
+
+field border-boundary-declaration
+
+field border-collapse-declaration
+
+field border-color-declaration
+
+field border-end-end-radius-declaration
+
+field border-end-start-radius-declaration
+
+field border-image-declaration
+
+field border-image-outset-declaration
+
+field border-image-repeat-declaration
+
+field border-image-slice-declaration
+
+field border-image-source-declaration
+
+field border-image-width-declaration
+
+field border-inline-declaration
+
+field border-inline-color-declaration
+
+field border-inline-end-declaration
+
+field border-inline-end-color-declaration
+
+field border-inline-end-style-declaration
+
+field border-inline-end-width-declaration
+
+field border-inline-start-declaration
+
+field border-inline-start-color-declaration
+
+field border-inline-start-style-declaration
+
+field border-inline-start-width-declaration
+
+field border-inline-style-declaration
+
+field border-inline-width-declaration
+
+field border-left-declaration
+
+field border-left-color-declaration
+
+field border-left-style-declaration
+
+field border-left-width-declaration
+
+field border-radius-declaration
+
+field border-right-declaration
+
+field border-right-color-declaration
+
+field border-right-style-declaration
+
+field border-right-width-declaration
+
+field border-spacing-declaration
+
+field border-start-end-radius-declaration
+
+field border-start-start-radius-declaration
+
+field border-style-declaration
+
+field border-top-declaration
+
+field border-top-color-declaration
+
+field border-top-left-radius-declaration
+
+field border-top-right-radius-declaration
+
+field border-top-style-declaration
+
+field border-top-width-declaration
+
+field border-width-declaration
+
+field bottom-declaration
+
+field box-decoration-break-declaration
+
+field box-shadow-declaration
+
+field box-sizing-declaration
+
+field box-snap-declaration
+
+field break-after-declaration
+
+field break-before-declaration
+
+field break-inside-declaration
+
+field caption-side-declaration
+
+field caret-declaration
+
+field caret-color-declaration
+
+field caret-shape-declaration
+
+field chains-declaration
+
+field clear-declaration
+
+field clip-declaration
+
+field clip-path-declaration
+
+field clip-rule-declaration
+
+field color-declaration
+
+field color-adjust-declaration
+
+field color-interpolation-filters-declaration
+
+field color-scheme-declaration
+
+field column-count-declaration
+
+field column-fill-declaration
+
+field column-gap-declaration
+
+field column-rule-declaration
+
+field column-rule-color-declaration
+
+field column-rule-style-declaration
+
+field column-rule-width-declaration
+
+field column-span-declaration
+
+field column-width-declaration
+
+field columns-declaration
+
+field contain-declaration
+
+field contain-intrinsic-block-size-declaration
+
+field contain-intrinsic-height-declaration
+
+field contain-intrinsic-inline-size-declaration
+
+field contain-intrinsic-size-declaration
+
+field contain-intrinsic-width-declaration
+
+field content-declaration
+
+field content-visibility-declaration
+
+field continue-declaration
+
+field counter-increment-declaration
+
+field counter-reset-declaration
+
+field counter-set-declaration
+
+field cue-declaration
+
+field cue-after-declaration
+
+field cue-before-declaration
+
+field cursor-declaration
+
+field direction-declaration
+
+field display-declaration
+
+field dominant-baseline-declaration
+
+field elevation-declaration
+
+field empty-cells-declaration
+
+field fill-declaration
+
+field fill-break-declaration
+
+field fill-color-declaration
+
+field fill-image-declaration
+
+field fill-opacity-declaration
+
+field fill-origin-declaration
+
+field fill-position-declaration
+
+field fill-repeat-declaration
+
+field fill-rule-declaration
+
+field fill-size-declaration
+
+field filter-declaration
+
+field flex-declaration
+
+field flex-basis-declaration
+
+field flex-direction-declaration
+
+field flex-flow-declaration
+
+field flex-grow-declaration
+
+field flex-shrink-declaration
+
+field flex-wrap-declaration
+
+field float-declaration
+
+field float-defer-declaration
+
+field float-offset-declaration
+
+field float-reference-declaration
+
+field flood-color-declaration
+
+field flood-opacity-declaration
+
+field flow-declaration
+
+field flow-from-declaration
+
+field flow-into-declaration
+
+field font-declaration
+
+field font-family-declaration
+
+field font-feature-settings-declaration
+
+field font-kerning-declaration
+
+field font-language-override-declaration
+
+field font-optical-sizing-declaration
+
+field font-palette-declaration
+
+field font-size-declaration
+
+field font-size-adjust-declaration
+
+field font-stretch-declaration
+
+field font-style-declaration
+
+field font-synthesis-declaration
+
+field font-synthesis-small-caps-declaration
+
+field font-synthesis-style-declaration
+
+field font-synthesis-weight-declaration
+
+field font-variant-declaration
+
+field font-variant-alternates-declaration
+
+field font-variant-caps-declaration
+
+field font-variant-east-asian-declaration
+
+field font-variant-emoji-declaration
+
+field font-variant-ligatures-declaration
+
+field font-variant-numeric-declaration
+
+field font-variant-position-declaration
+
+field font-variation-settings-declaration
+
+field font-weight-declaration
+
+field footnote-display-declaration
+
+field footnote-policy-declaration
+
+field forced-color-adjust-declaration
+
+field gap-declaration
+
+field glyph-orientation-vertical-declaration
+
+field grid-declaration
+
+field grid-area-declaration
+
+field grid-auto-columns-declaration
+
+field grid-auto-flow-declaration
+
+field grid-auto-rows-declaration
+
+field grid-column-declaration
+
+field grid-column-end-declaration
+
+field grid-column-start-declaration
+
+field grid-row-declaration
+
+field grid-row-end-declaration
+
+field grid-row-start-declaration
+
+field grid-template-declaration
+
+field grid-template-areas-declaration
+
+field grid-template-columns-declaration
+
+field grid-template-rows-declaration
+
+field hanging-punctuation-declaration
+
+field height-declaration
+
+field hyphenate-character-declaration
+
+field hyphenate-limit-chars-declaration
+
+field hyphenate-limit-last-declaration
+
+field hyphenate-limit-lines-declaration
+
+field hyphenate-limit-zone-declaration
+
+field hyphens-declaration
+
+field image-orientation-declaration
+
+field image-rendering-declaration
+
+field image-resolution-declaration
+
+field initial-letter-declaration
+
+field initial-letter-align-declaration
+
+field initial-letter-wrap-declaration
+
+field inline-size-declaration
+
+field inline-sizing-declaration
+
+field inset-declaration
+
+field inset-block-declaration
+
+field inset-block-end-declaration
+
+field inset-block-start-declaration
+
+field inset-inline-declaration
+
+field inset-inline-end-declaration
+
+field inset-inline-start-declaration
+
+field isolation-declaration
+
+field justify-content-declaration
+
+field justify-items-declaration
+
+field justify-self-declaration
+
+field leading-trim-declaration
+
+field left-declaration
+
+field letter-spacing-declaration
+
+field lighting-color-declaration
+
+field line-break-declaration
+
+field line-clamp-declaration
+
+field line-grid-declaration
+
+field line-height-declaration
+
+field line-height-step-declaration
+
+field line-padding-declaration
+
+field line-snap-declaration
+
+field list-style-declaration
+
+field list-style-image-declaration
+
+field list-style-position-declaration
+
+field list-style-type-declaration
+
+field margin-declaration
+
+field margin-block-declaration
+
+field margin-block-end-declaration
+
+field margin-block-start-declaration
+
+field margin-bottom-declaration
+
+field margin-break-declaration
+
+field margin-inline-declaration
+
+field margin-inline-end-declaration
+
+field margin-inline-start-declaration
+
+field margin-left-declaration
+
+field margin-right-declaration
+
+field margin-top-declaration
+
+field margin-trim-declaration
+
+field marker-declaration
+
+field marker-end-declaration
+
+field marker-knockout-left-declaration
+
+field marker-knockout-right-declaration
+
+field marker-mid-declaration
+
+field marker-pattern-declaration
+
+field marker-segment-declaration
+
+field marker-side-declaration
+
+field marker-start-declaration
+
+field mask-declaration
+
+field mask-border-declaration
+
+field mask-border-mode-declaration
+
+field mask-border-outset-declaration
+
+field mask-border-repeat-declaration
+
+field mask-border-slice-declaration
+
+field mask-border-source-declaration
+
+field mask-border-width-declaration
+
+field mask-clip-declaration
+
+field mask-composite-declaration
+
+field mask-image-declaration
+
+field mask-mode-declaration
+
+field mask-origin-declaration
+
+field mask-position-declaration
+
+field mask-repeat-declaration
+
+field mask-size-declaration
+
+field mask-type-declaration
+
+field max-block-size-declaration
+
+field max-height-declaration
+
+field max-inline-size-declaration
+
+field max-lines-declaration
+
+field max-width-declaration
+
+field min-block-size-declaration
+
+field min-height-declaration
+
+field min-inline-size-declaration
+
+field min-intrinsic-sizing-declaration
+
+field min-width-declaration
+
+field mix-blend-mode-declaration
+
+field nav-down-declaration
+
+field nav-left-declaration
+
+field nav-right-declaration
+
+field nav-up-declaration
+
+field object-fit-declaration
+
+field object-position-declaration
+
+field offset-declaration
+
+field offset-anchor-declaration
+
+field offset-distance-declaration
+
+field offset-path-declaration
+
+field offset-position-declaration
+
+field offset-rotate-declaration
+
+field opacity-declaration
+
+field order-declaration
+
+field orphans-declaration
+
+field outline-declaration
+
+field outline-color-declaration
+
+field outline-offset-declaration
+
+field outline-style-declaration
+
+field outline-width-declaration
+
+field overflow-declaration
+
+field overflow-anchor-declaration
+
+field overflow-block-declaration
+
+field overflow-clip-margin-declaration
+
+field overflow-inline-declaration
+
+field overflow-wrap-declaration
+
+field overflow-x-declaration
+
+field overflow-y-declaration
+
+field overscroll-behavior-declaration
+
+field overscroll-behavior-block-declaration
+
+field overscroll-behavior-inline-declaration
+
+field overscroll-behavior-x-declaration
+
+field overscroll-behavior-y-declaration
+
+field padding-declaration
+
+field padding-block-declaration
+
+field padding-block-end-declaration
+
+field padding-block-start-declaration
+
+field padding-bottom-declaration
+
+field padding-inline-declaration
+
+field padding-inline-end-declaration
+
+field padding-inline-start-declaration
+
+field padding-left-declaration
+
+field padding-right-declaration
+
+field padding-top-declaration
+
+field page-declaration
+
+field page-break-after-declaration
+
+field page-break-before-declaration
+
+field page-break-inside-declaration
+
+field pause-declaration
+
+field pause-after-declaration
+
+field pause-before-declaration
+
+field perspective-declaration
+
+field perspective-origin-declaration
+
+field pitch-declaration
+
+field pitch-range-declaration
+
+field place-content-declaration
+
+field place-items-declaration
+
+field place-self-declaration
+
+field play-during-declaration
+
+field position-declaration
+
+field print-color-adjust-declaration
+
+field quotes-declaration
+
+field region-fragment-declaration
+
+field resize-declaration
+
+field rest-declaration
+
+field rest-after-declaration
+
+field rest-before-declaration
+
+field richness-declaration
+
+field right-declaration
+
+field rotate-declaration
+
+field row-gap-declaration
+
+field ruby-align-declaration
+
+field ruby-merge-declaration
+
+field ruby-overhang-declaration
+
+field ruby-position-declaration
+
+field running-declaration
+
+field scale-declaration
+
+field scroll-behavior-declaration
+
+field scroll-margin-declaration
+
+field scroll-margin-block-declaration
+
+field scroll-margin-block-end-declaration
+
+field scroll-margin-block-start-declaration
+
+field scroll-margin-bottom-declaration
+
+field scroll-margin-inline-declaration
+
+field scroll-margin-inline-end-declaration
+
+field scroll-margin-inline-start-declaration
+
+field scroll-margin-left-declaration
+
+field scroll-margin-right-declaration
+
+field scroll-margin-top-declaration
+
+field scroll-padding-declaration
+
+field scroll-padding-block-declaration
+
+field scroll-padding-block-end-declaration
+
+field scroll-padding-block-start-declaration
+
+field scroll-padding-bottom-declaration
+
+field scroll-padding-inline-declaration
+
+field scroll-padding-inline-end-declaration
+
+field scroll-padding-inline-start-declaration
+
+field scroll-padding-left-declaration
+
+field scroll-padding-right-declaration
+
+field scroll-padding-top-declaration
+
+field scroll-snap-align-declaration
+
+field scroll-snap-stop-declaration
+
+field scroll-snap-type-declaration
+
+field scrollbar-color-declaration
+
+field scrollbar-gutter-declaration
+
+field scrollbar-width-declaration
+
+field shape-image-threshold-declaration
+
+field shape-inside-declaration
+
+field shape-margin-declaration
+
+field shape-outside-declaration
+
+field spatial-navigation-action-declaration
+
+field spatial-navigation-contain-declaration
+
+field spatial-navigation-function-declaration
+
+field speak-declaration
+
+field speak-as-declaration
+
+field speak-header-declaration
+
+field speak-numeral-declaration
+
+field speak-punctuation-declaration
+
+field speech-rate-declaration
+
+field stress-declaration
+
+field string-set-declaration
+
+field stroke-declaration
+
+field stroke-align-declaration
+
+field stroke-alignment-declaration
+
+field stroke-break-declaration
+
+field stroke-color-declaration
+
+field stroke-dash-corner-declaration
+
+field stroke-dash-justify-declaration
+
+field stroke-dashadjust-declaration
+
+field stroke-dasharray-declaration
+
+field stroke-dashcorner-declaration
+
+field stroke-dashoffset-declaration
+
+field stroke-image-declaration
+
+field stroke-linecap-declaration
+
+field stroke-linejoin-declaration
+
+field stroke-miterlimit-declaration
+
+field stroke-opacity-declaration
+
+field stroke-origin-declaration
+
+field stroke-position-declaration
+
+field stroke-repeat-declaration
+
+field stroke-size-declaration
+
+field stroke-width-declaration
+
+field tab-size-declaration
+
+field table-layout-declaration
+
+field text-align-declaration
+
+field text-align-all-declaration
+
+field text-align-last-declaration
+
+field text-combine-upright-declaration
+
+field text-decoration-declaration
+
+field text-decoration-color-declaration
+
+field text-decoration-line-declaration
+
+field text-decoration-skip-declaration
+
+field text-decoration-skip-box-declaration
+
+field text-decoration-skip-ink-declaration
+
+field text-decoration-skip-inset-declaration
+
+field text-decoration-skip-self-declaration
+
+field text-decoration-skip-spaces-declaration
+
+field text-decoration-style-declaration
+
+field text-decoration-thickness-declaration
+
+field text-edge-declaration
+
+field text-emphasis-declaration
+
+field text-emphasis-color-declaration
+
+field text-emphasis-position-declaration
+
+field text-emphasis-skip-declaration
+
+field text-emphasis-style-declaration
+
+field text-group-align-declaration
+
+field text-indent-declaration
+
+field text-justify-declaration
+
+field text-orientation-declaration
+
+field text-overflow-declaration
+
+field text-shadow-declaration
+
+field text-space-collapse-declaration
+
+field text-space-trim-declaration
+
+field text-spacing-declaration
+
+field text-transform-declaration
+
+field text-underline-offset-declaration
+
+field text-underline-position-declaration
+
+field text-wrap-declaration
+
+field top-declaration
+
+field transform-declaration
+
+field transform-box-declaration
+
+field transform-origin-declaration
+
+field transform-style-declaration
+
+field transition-declaration
+
+field transition-delay-declaration
+
+field transition-duration-declaration
+
+field transition-property-declaration
+
+field transition-timing-function-declaration
+
+field translate-declaration
+
+field unicode-bidi-declaration
+
+field user-select-declaration
+
+field vertical-align-declaration
+
+field visibility-declaration
+
+field voice-balance-declaration
+
+field voice-duration-declaration
+
+field voice-family-declaration
+
+field voice-pitch-declaration
+
+field voice-range-declaration
+
+field voice-rate-declaration
+
+field voice-stress-declaration
+
+field voice-volume-declaration
+
+field volume-declaration
+
+field white-space-declaration
+
+field widows-declaration
+
+field width-declaration
+
+field will-change-declaration
+
+field word-boundary-detection-declaration
+
+field word-boundary-expansion-declaration
+
+field word-break-declaration
+
+field word-spacing-declaration
+
+field word-wrap-declaration
+
+field wrap-after-declaration
+
+field wrap-before-declaration
+
+field wrap-flow-declaration
+
+field wrap-inside-declaration
+
+field wrap-through-declaration
+
+field writing-mode-declaration
+
+field z-index-declaration

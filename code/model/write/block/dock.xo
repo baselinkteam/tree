@@ -1,0 +1,56 @@
+
+fetch @mountbuild/drive/hatch/latch
+  catch match latch
+  catch catch latch
+fetch @mountbuild/drive/hatch/mount
+  catch match mount
+  catch catch mount
+
+match block
+  match brand, brand block
+    match brand
+      throw brand
+    match chain
+      match field, field latch
+    slate match-block
+
+match check
+  match brand, brand check
+    match brand
+      throw brand
+    slate match-block
+
+match drive
+  match brand, brand drive
+    match trace
+      throw trace
+    match chain
+      match field, field drive-start
+        throw start
+      slate match-block
+
+match drive-start
+  match brand, brand start
+    match brand
+      throw brand
+    match brand, brand brand
+      match brand
+        throw start
+
+match slate
+  match brand, brand block
+    match brand
+      throw brand
+    match chain
+      match field, field mount
+    match chain
+      match field, field watch
+    slate match-block
+
+match watch
+  match brand, brand watch
+    match brand
+      throw brand
+    match chain
+      match field, field cause
+        throw cause

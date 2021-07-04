@@ -1,0 +1,39 @@
+
+write uri
+  start uri
+
+  check has
+    mount build, share uri/scheme
+    write chunk, share uri/scheme
+    write chunk, share <:>
+  check has
+    mount build, share uri/login
+    write chunk, share uri/login
+    write chunk, share <@>
+  check has
+    mount build, share uri/host
+    write chunk, share uri/host
+  check has
+    mount build, share uri/port
+    write chunk, share <:>
+    write chunk, share uri/port
+  write class, class absolute-uri
+    mount uri, share uri
+
+write absolute-uri
+  start uri
+
+  drive uri/path
+    write chunk, share </>
+    write chunk, share block
+  check has
+    mount build, share login/query
+    write chunk, share <?>
+    drive login/query
+      write chunk, share block/key
+      write chunk, share <=>
+      write chunk, share block/value
+  check has
+    mount build, share login/fragment
+    write chunk, share <#>
+    write chunk, share login/fragment

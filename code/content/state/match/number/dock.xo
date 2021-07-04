@@ -1,0 +1,10 @@
+
+match digit
+  match bound
+    match start, share 0
+    match front, share 9
+
+match non-zero-digit
+  match bound
+    match start, share 1
+    match front, share 9

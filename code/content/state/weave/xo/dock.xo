@@ -1,0 +1,99 @@
+
+fetch ../field
+  fetch /term
+    catch field term
+  fetch /source
+    catch field source
+  fetch /template
+    catch field template
+
+weave xo
+  state term, chain term
+
+  weave indented-term, class indented-term
+    stack term
+
+  build source
+    mount term, share term
+    leave build
+
+weave indented-term
+  state name
+  state children, chain term
+
+  weave name
+    store name
+  weave inline-input
+    stack children
+  weave nested-input
+    stack children
+
+  build term
+    mount name, share name
+    mount children, share children
+    leave build
+
+weave inline-input
+  weave inline-parenthesized-input
+    weave inline-value, class inline-value
+      throw term
+  weave inline-non-parenthesized-input
+    weave inline-value, class inline-value
+      throw term
+
+weave inline-value
+  state value
+
+  weave number
+    weave integer
+      start write
+
+      shift convert-string-to-integer
+        mount string, share write
+        store value
+    weave decimal
+      start write
+
+      shift convert-string-to-float
+        mount string, share write
+        store value
+
+  weave code
+    state type
+    state value
+
+    weave lowercase-ascii-letter
+      store type
+    weave word-symbol
+      store value
+
+  weave inline-template
+    weave template-line, class template-line
+
+  weave path
+  weave selector
+
+weave template-line
+  state chunk
+
+  weave inline-string, class inline-string
+    stack chunk
+  weave inline-code, class inline-code
+    stack chunk
+
+  build template
+    mount chunk, share chunk
+    leave build
+
+weave inline-code
+  weave name
+  weave inline-parenthesized-input
+    weave inline-value, class inline-value
+
+weave nested-input
+  weave nested-template
+    weave multiline-template-body
+      weave template-line
+  weave indented-term
+
+weave inline-string
