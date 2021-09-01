@@ -1,29 +1,29 @@
 
-block |Cædmon's Hymn|
+text <Cædmon's Hymn>
   block
-    block |Nū scylun hergan|
-    block |hefaenrīcaes Uard,|
+    text <Nū scylun hergan>
+    text <hefaenrīcaes Uard,>
   block
-    block |metudæs maecti|
-    block |end his mōdgidanc,|
+    text <metudæs maecti>
+    text <end his mōdgidanc,>
   block
-    block |uerc Uuldurfadur,|
-    block |suē hē uundra gihwaes,|
+    text <uerc Uuldurfadur,>
+    text <suē hē uundra gihwaes,>
   block
-    block |ēci dryctin|
-    block |ōr āstelidæ|
+    text <ēci dryctin>
+    text <ōr āstelidæ>
   block
-    block |hē ǣrist scōp|
-    block |aelda barnum|
+    text <hē ǣrist scōp>
+    text <aelda barnum>
   block
-    block |heben til hrōfe,|
-    block |hāleg scepen.|
+    text <heben til hrōfe,>
+    text <hāleg scepen.>
   block
-    block |Thā middungeard|
-    block |moncynnæs Uard,|
+    text <Thā middungeard>
+    text <moncynnæs Uard,>
   block
-    block |eci Dryctin,|
-    block |æfter tīadæ|
+    text <eci Dryctin,>
+    text <æfter tīadæ>
   block
-    block |firum foldu,|
-    block |Frēa allmectig.|
+    text <firum foldu,>
+    text <Frēa allmectig.>

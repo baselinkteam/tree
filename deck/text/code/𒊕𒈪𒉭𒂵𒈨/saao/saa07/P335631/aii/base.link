@@ -1,15 +1,15 @@
 
-block |List of Various Craftsmen|
-  block |𒁹𒈠𒀪𒀀𒀭|
-  block |𒁹𒌋𒀀𒁉|
-  block |𒁹𒌋𒀉𒊑|
-  block |𒁹𒀭𒈜𒄯|
-  block |𒉽 𒐉 𒇽𒌣𒀭:cloud(|𒁇|)|
-  block |𒁹𒁲𒈬:blank(3)|
-  block |𒇽:blank(6)|
-  block |𒁹:blank(5)|
-  block |𒉽 𒐊:cloud(|𒇽:blank(3)|)|
-  block |𒁹𒈜:blank(4)|
-  block |𒁹𒁀𒍝𒍪:cloud(|o|)|
-  block |𒁹𒌋𒀀𒌒:cloud(|𒁉𒄑|)|
-  block |𒉽 𒐈 𒂁𒋡𒁓|
+text <List of Various Craftsmen>
+  text <𒁹𒈠𒀪𒀀𒀭>
+  text <𒁹𒌋𒀀𒁉>
+  text <𒁹𒌋𒀉𒊑>
+  text <𒁹𒀭𒈜𒄯>
+  text <𒉽 𒐉 𒇽𒌣𒀭:cloud(|𒁇|)>
+  text <𒁹𒁲𒈬:blank(3)>
+  text <𒇽:blank(6)>
+  text <𒁹:blank(5)>
+  text <𒉽 𒐊:cloud(|𒇽:blank(3)|)>
+  text <𒁹𒈜:blank(4)>
+  text <𒁹𒁀𒍝𒍪:cloud(|o|)>
+  text <𒁹𒌋𒀀𒌒:cloud(|𒁉𒄑|)>
+  text <𒉽 𒐈 𒂁𒋡𒁓>

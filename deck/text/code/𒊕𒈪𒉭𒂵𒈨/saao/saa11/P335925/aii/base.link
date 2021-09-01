@@ -1,12 +1,12 @@
 
-block |Schedule of Estate Assignments|
-  block |:blank(5)𒍣|
-  block |:blank(6)𒄀|
-  block |:blank(6)𒆏|
-  block |:blank(5)𒈾|
-  block |𒀸 𒌷𒁹𒊺:blank(5)|
-  block |𒐏 𒀀𒊮 𒀸:blank(5)|
-  block |𒃻:blank(5)|
-  block |𒀸 𒅆 𒁹𒋛:blank(4)|
-  block |𒌍 𒑳 𒑳 𒀸:blank(3)|
-  block |𒀸 𒅆 𒁹𒀭:blank(4)|
+text <Schedule of Estate Assignments>
+  text <:blank(5)𒍣>
+  text <:blank(6)𒄀>
+  text <:blank(6)𒆏>
+  text <:blank(5)𒈾>
+  text <𒀸 𒌷𒁹𒊺:blank(5)>
+  text <𒐏 𒀀𒊮 𒀸:blank(5)>
+  text <𒃻:blank(5)>
+  text <𒀸 𒅆 𒁹𒋛:blank(4)>
+  text <𒌍 𒑳 𒑳 𒀸:blank(3)>
+  text <𒀸 𒅆 𒁹𒀭:blank(4)>

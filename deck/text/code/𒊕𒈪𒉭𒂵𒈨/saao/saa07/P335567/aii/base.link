@@ -1,9 +1,9 @@
 
-block |Textile Label|
-  block |𒌉 :blank(5)|
-  block |𒐈:blank(4)|
-  block |𒄵 𒉡:blank(4)|
-  block |𒉡:blank(4)|
-  block |𒐈:blank(4)|
-  block |𒍠 𒋛𒀀:blank(4)|
-  block |𒉌:blank(4)|
+text <Textile Label>
+  text <𒌉 :blank(5)>
+  text <𒐈:blank(4)>
+  text <𒄵 𒉡:blank(4)>
+  text <𒉡:blank(4)>
+  text <𒐈:blank(4)>
+  text <𒍠 𒋛𒀀:blank(4)>
+  text <𒉌:blank(4)>

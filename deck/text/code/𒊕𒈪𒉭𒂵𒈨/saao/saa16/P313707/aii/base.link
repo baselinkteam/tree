@@ -1,6 +1,6 @@
 
-block |Should I Come to Calah?|
-  block |𒆷𒇷𒅗:cloud(|𒀀|)|
-  block |𒀀𒈾 𒌷𒆗:cloud(|𒄩|)|
-  block |𒈪𒄿𒉡 𒊭 𒈗 𒁁:cloud(|𒉌|)|
-  block |𒄿𒃮𒁍𒌋𒉌|
+text <Should I Come to Calah?>
+  text <𒆷𒇷𒅗:cloud(|𒀀|)>
+  text <𒀀𒈾 𒌷𒆗:cloud(|𒄩|)>
+  text <𒈪𒄿𒉡 𒊭 𒈗 𒁁:cloud(|𒉌|)>
+  text <𒄿𒃮𒁍𒌋𒉌>

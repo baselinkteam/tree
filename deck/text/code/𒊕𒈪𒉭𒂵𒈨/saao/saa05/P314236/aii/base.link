@@ -1,25 +1,25 @@
 
-block |(no title)|
-  block |:cloud(|𒀀𒈾 𒈗 𒂗𒅀|)|
-  block |:cloud(|𒀴𒅗 𒁹:blank(4)|)|
-  block |:cloud(|𒇻 𒁲𒈬|)𒀀:cloud(|𒈾 𒈗 𒂗𒅀|)|
-  block |:cloud(|𒁲𒈬|)𒀀𒈾:blank(3)|
-  block |:blank(8)|
-  block |𒀲:blank(7)|
-  block |𒈗:blank(7)|
-  block |𒆷𒀀:blank(7)|
-  block |𒄿𒌅:cloud(|𒀪𒌋 :blank(3)|)|
-  block |𒄿𒋛𒅀:blank(5)|
-  block |𒄿𒊓𒌓:blank(5)|
-  block |:cloud(|𒄿|)𒋛𒅗:blank(5)|
-  block |:blank(1)𒄿𒁕:blank(5)|
-  block |:blank(1)𒁹𒆪 :blank(6)|
-  block |:blank(2)𒆷:blank(5)|
-  block |:blank(1)𒄿:blank(6)|
-  block |:blank(9)|
-  block |𒅆:blank(8)|
-  block |𒈠:blank(8)|
-  block |:blank(5)𒊏𒀭𒉌:blank(5)|
-  block |:blank(5)𒀀𒊓𒌓 𒀸 𒌋𒅗:blank(4)|
-  block |:blank(1)𒌋𒌋𒉡 𒄿𒁕𒈾 𒈠𒀀 𒀸:blank(4)|
-  block |:blank(5)𒋗𒉡:blank(4)|
+text <(no title)>
+  text <:cloud(|𒀀𒈾 𒈗 𒂗𒅀|)>
+  text <:cloud(|𒀴𒅗 𒁹:blank(4)|)>
+  text <:cloud(|𒇻 𒁲𒈬|)𒀀:cloud(|𒈾 𒈗 𒂗𒅀|)>
+  text <:cloud(|𒁲𒈬|)𒀀𒈾:blank(3)>
+  text <:blank(8)>
+  text <𒀲:blank(7)>
+  text <𒈗:blank(7)>
+  text <𒆷𒀀:blank(7)>
+  text <𒄿𒌅:cloud(|𒀪𒌋 :blank(3)|)>
+  text <𒄿𒋛𒅀:blank(5)>
+  text <𒄿𒊓𒌓:blank(5)>
+  text <:cloud(|𒄿|)𒋛𒅗:blank(5)>
+  text <:blank(1)𒄿𒁕:blank(5)>
+  text <:blank(1)𒁹𒆪 :blank(6)>
+  text <:blank(2)𒆷:blank(5)>
+  text <:blank(1)𒄿:blank(6)>
+  text <:blank(9)>
+  text <𒅆:blank(8)>
+  text <𒈠:blank(8)>
+  text <:blank(5)𒊏𒀭𒉌:blank(5)>
+  text <:blank(5)𒀀𒊓𒌓 𒀸 𒌋𒅗:blank(4)>
+  text <:blank(1)𒌋𒌋𒉡 𒄿𒁕𒈾 𒈠𒀀 𒀸:blank(4)>
+  text <:blank(5)𒋗𒉡:blank(4)>

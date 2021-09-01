@@ -1,10 +1,10 @@
 
-block |Sending a Man to the King|
-  block |:cloud(|𒀀𒈾|)𒈗 𒁁𒉌𒐊|
-  block |:cloud(|𒀴|)𒅗 𒁹𒌋𒌋𒅆𒀀𒉌|
-  block |:cloud(|𒇻|)𒂄𒈬 𒀀𒈾 𒁁𒉌𒅀|
-  block |:cloud(|𒀸 𒌋𒅗 𒁹:blank(3)|)𒋙𒉡|
-  block |:blank(8)𒌋𒉌|
-  block |:blank(3)𒍢|
-  block |:blank(3)𒉌𒉿|
-  block |:cloud(|𒈗 𒁁|)𒉌 𒇺𒀠𒋙|
+text <Sending a Man to the King>
+  text <:cloud(|𒀀𒈾|)𒈗 𒁁𒉌𒐊>
+  text <:cloud(|𒀴|)𒅗 𒁹𒌋𒌋𒅆𒀀𒉌>
+  text <:cloud(|𒇻|)𒂄𒈬 𒀀𒈾 𒁁𒉌𒅀>
+  text <:cloud(|𒀸 𒌋𒅗 𒁹:blank(3)|)𒋙𒉡>
+  text <:blank(8)𒌋𒉌>
+  text <:blank(3)𒍢>
+  text <:blank(3)𒉌𒉿>
+  text <:cloud(|𒈗 𒁁|)𒉌 𒇺𒀠𒋙>

@@ -1,10 +1,10 @@
 
-block |Note of Officials Assigned to Provinces|
-  block |:blank(4)𒁹:blank(4)|
-  block |𒃲𒁉𒈜|
-  block |𒈫 𒊭 𒌷𒂍𒍝𒈠𒈾|
-  block |𒌉𒋫𒉡|
-  block |𒊭 𒌷𒆪𒈬𒄩|
-  block |:blank(3)𒄣𒂊|
-  block |:blank(6)|
-  block |𒌝𒌋𒌋:blank(2)|
+text <Note of Officials Assigned to Provinces>
+  text <:blank(4)𒁹:blank(4)>
+  text <𒃲𒁉𒈜>
+  text <𒈫 𒊭 𒌷𒂍𒍝𒈠𒈾>
+  text <𒌉𒋫𒉡>
+  text <𒊭 𒌷𒆪𒈬𒄩>
+  text <:blank(3)𒄣𒂊>
+  text <:blank(6)>
+  text <𒌝𒌋𒌋:blank(2)>

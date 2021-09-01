@@ -1,13 +1,13 @@
 
-block |Source B09|
-  block |:blank(2)|
-  block |:blank(1)𒀭|
-  block |𒀀𒈾|
-  block |𒀀𒈾|
-  block |𒀀𒈾|
-  block |𒀀𒈾|
-  block |𒀀𒈾|
-  block |𒀀𒈾 𒆳|
-  block |𒀀𒈾 𒆳|
-  block |𒀀𒈾 𒆳|
-  block |𒀀𒈾|
+text <Source B09>
+  text <:blank(2)>
+  text <:blank(1)𒀭>
+  text <𒀀𒈾>
+  text <𒀀𒈾>
+  text <𒀀𒈾>
+  text <𒀀𒈾>
+  text <𒀀𒈾>
+  text <𒀀𒈾 𒆳>
+  text <𒀀𒈾 𒆳>
+  text <𒀀𒈾 𒆳>
+  text <𒀀𒈾>

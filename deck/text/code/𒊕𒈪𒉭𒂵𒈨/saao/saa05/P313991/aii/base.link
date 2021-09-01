@@ -1,22 +1,22 @@
 
-block |Work on a Bull Colossus and Stone|
-  block |:cloud(|𒀀𒈾 𒈗 𒂗𒅀|)|
-  block |:cloud(|𒀴𒅗 𒁹𒆸𒆸𒂗|)|
-  block |:cloud(|𒇻 𒁲𒈬 𒀀𒈾 𒈗 𒂗𒐊|)|
-  block |:cloud(|𒁲𒈬 𒀀𒈾 𒆳 𒊭 𒈗|)|
-  block |:cloud(|𒁲𒈬 𒀀𒈾 𒌷𒄬|)𒍮𒈨𒌍|
-  block |:cloud(|𒊮 𒊭 𒈗 𒂗𒅀 𒇻 𒄭|)|
-  block |:blank(7)|
-  block |:blank(6)𒍝𒈠𒈾|
-  block |:blank(5)𒈾 𒂗𒉣|
-  block |:blank(4)𒇷𒇷𒌋|
-  block |:blank(4)𒇻𒍮𒌋𒉌|
-  block |:blank(12)𒇴|
-  block |:blank(5)𒋛𒅀|
-  block |:blank(5)𒁺𒁺|
-  block |:blank(5)𒌓𒈨𒌍 𒇷𒋼𒉡𒉌|
-  block |:blank(5)𒉌𒌓𒀭𒆘𒀭𒇴|
-  block |:blank(4)𒉌𒌓𒄿𒁳𒈨𒌍|
-  block |:blank(8)𒃮𒁇|
-  block |:blank(5)𒂗𒅀|
-  block |:blank(4)𒌑𒃼𒊐|
+text <Work on a Bull Colossus and Stone>
+  text <:cloud(|𒀀𒈾 𒈗 𒂗𒅀|)>
+  text <:cloud(|𒀴𒅗 𒁹𒆸𒆸𒂗|)>
+  text <:cloud(|𒇻 𒁲𒈬 𒀀𒈾 𒈗 𒂗𒐊|)>
+  text <:cloud(|𒁲𒈬 𒀀𒈾 𒆳 𒊭 𒈗|)>
+  text <:cloud(|𒁲𒈬 𒀀𒈾 𒌷𒄬|)𒍮𒈨𒌍>
+  text <:cloud(|𒊮 𒊭 𒈗 𒂗𒅀 𒇻 𒄭|)>
+  text <:blank(7)>
+  text <:blank(6)𒍝𒈠𒈾>
+  text <:blank(5)𒈾 𒂗𒉣>
+  text <:blank(4)𒇷𒇷𒌋>
+  text <:blank(4)𒇻𒍮𒌋𒉌>
+  text <:blank(12)𒇴>
+  text <:blank(5)𒋛𒅀>
+  text <:blank(5)𒁺𒁺>
+  text <:blank(5)𒌓𒈨𒌍 𒇷𒋼𒉡𒉌>
+  text <:blank(5)𒉌𒌓𒀭𒆘𒀭𒇴>
+  text <:blank(4)𒉌𒌓𒄿𒁳𒈨𒌍>
+  text <:blank(8)𒃮𒁇>
+  text <:blank(5)𒂗𒅀>
+  text <:blank(4)𒌑𒃼𒊐>

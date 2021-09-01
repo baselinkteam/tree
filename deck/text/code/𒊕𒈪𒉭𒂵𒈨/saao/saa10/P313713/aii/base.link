@@ -1,10 +1,10 @@
 
-block |Bandaging a Wound|
-  block |𒉌𒁕𒇷:cloud(|𒅁|)|
-  block |𒈠𒀀 𒊕𒁺:cloud(|𒋢|)|
-  block |𒉡𒃲𒇷:cloud(|𒅁 :blank(2)|)|
-  block |𒍢𒅔𒁲:blank(3)|
-  block |𒉌𒅕𒆪:cloud(|𒊻|)|
-  block |𒌑:cloud(|𒈠𒀀|)|
-  block |𒈪𒉡 𒊭:cloud(|𒈗 𒁁𒉌|)|
-  block |𒄿𒋡𒁍:cloud(|𒌋𒉌|)|
+text <Bandaging a Wound>
+  text <𒉌𒁕𒇷:cloud(|𒅁|)>
+  text <𒈠𒀀 𒊕𒁺:cloud(|𒋢|)>
+  text <𒉡𒃲𒇷:cloud(|𒅁 :blank(2)|)>
+  text <𒍢𒅔𒁲:blank(3)>
+  text <𒉌𒅕𒆪:cloud(|𒊻|)>
+  text <𒌑:cloud(|𒈠𒀀|)>
+  text <𒈪𒉡 𒊭:cloud(|𒈗 𒁁𒉌|)>
+  text <𒄿𒋡𒁍:cloud(|𒌋𒉌|)>

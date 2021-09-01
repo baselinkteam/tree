@@ -1,16 +1,16 @@
 
-block |Aššur-uballiṭ I 1001|
-  block |𒉌|
-  block |𒈾|
-  block |𒋾|
-  block |𒌑|
-  block |𒅀|
-  block |𒅀|
-  block |:blank(3)|
-  block |𒂊𒁍𒋗𒈠|
-  block |𒄿𒈾:cloud(|𒄷|)|
-  block |𒅈𒆠:cloud(|𒋗|)|
-  block |𒁹𒀭𒌓𒅆𒀭𒅎|
-  block |𒈗 𒆳 𒀀𒇳𒊬|
-  block |𒈗 𒀀𒌨 𒉺:cloud(|𒉌𒅀|)|
-  block |:cloud(|𒌓|)𒁲𒌍𒈠 𒊓|
+text <Aššur-uballiṭ I 1001>
+  text <𒉌>
+  text <𒈾>
+  text <𒋾>
+  text <𒌑>
+  text <𒅀>
+  text <𒅀>
+  text <:blank(3)>
+  text <𒂊𒁍𒋗𒈠>
+  text <𒄿𒈾:cloud(|𒄷|)>
+  text <𒅈𒆠:cloud(|𒋗|)>
+  text <𒁹𒀭𒌓𒅆𒀭𒅎>
+  text <𒈗 𒆳 𒀀𒇳𒊬>
+  text <𒈗 𒀀𒌨 𒉺:cloud(|𒉌𒅀|)>
+  text <:cloud(|𒌓|)𒁲𒌍𒈠 𒊓>

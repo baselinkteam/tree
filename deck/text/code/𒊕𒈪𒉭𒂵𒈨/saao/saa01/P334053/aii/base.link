@@ -1,12 +1,12 @@
 
-block |A Message from the King of Ukku|
-  block |𒀀𒈾 𒈗 𒁁:cloud(|𒉌𒅀|)|
-  block |𒀴𒅗 𒁹𒄭𒅎𒀸𒋩|
-  block |𒇻 𒁲𒈬 𒀀𒈾 𒈗 𒁁𒉌𒅀|
-  block |:cloud(|𒊭|)𒈗 𒁁𒉌 𒅖𒁓:cloud(|𒀭𒉌|)|
-  block |:cloud(|𒈠𒀀|)𒊌𒅗𒀀𒀀 𒄿:cloud(|𒊓𒌓|)|
-  block |:cloud(|𒀸 𒌋𒅗|)𒄭𒅀 𒈠𒀀 𒌑𒈠:cloud(|𒀀|)|
-  block |𒀭𒉡𒋆 𒀀𒋫𒋃|
-  block |:blank(6)𒌓:cloud(|o|)|
-  block |:blank(6)𒀾:blank(1)|
-  block |:blank(7):blank(1)|
+text <A Message from the King of Ukku>
+  text <𒀀𒈾 𒈗 𒁁:cloud(|𒉌𒅀|)>
+  text <𒀴𒅗 𒁹𒄭𒅎𒀸𒋩>
+  text <𒇻 𒁲𒈬 𒀀𒈾 𒈗 𒁁𒉌𒅀>
+  text <:cloud(|𒊭|)𒈗 𒁁𒉌 𒅖𒁓:cloud(|𒀭𒉌|)>
+  text <:cloud(|𒈠𒀀|)𒊌𒅗𒀀𒀀 𒄿:cloud(|𒊓𒌓|)>
+  text <:cloud(|𒀸 𒌋𒅗|)𒄭𒅀 𒈠𒀀 𒌑𒈠:cloud(|𒀀|)>
+  text <𒀭𒉡𒋆 𒀀𒋫𒋃>
+  text <:blank(6)𒌓:cloud(|o|)>
+  text <:blank(6)𒀾:blank(1)>
+  text <:blank(7):blank(1)>

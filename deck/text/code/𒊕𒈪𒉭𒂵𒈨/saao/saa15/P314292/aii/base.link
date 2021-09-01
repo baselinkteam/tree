@@ -1,18 +1,18 @@
 
-block |The Prelate of Sippar Goes to the King|
-  block |𒀊𒋫𒀪:blank(6)|
-  block |𒊭 𒈗 𒁁:cloud(|𒉌 𒅖𒁓𒀭𒉌|)|
-  block |𒈠𒀀 𒊮:cloud(|𒌓 :blank(4)|)|
-  block |𒊭 𒌷𒈨:cloud(|𒌓 :blank(5)|)|
-  block |𒈠𒀀 𒇸:cloud(|𒇷𒆪𒌋𒉌 :blank(3)|)|
-  block |𒀖:cloud(|𒁍𒁍 :blank(3)|)|
-  block |𒈠𒆷 𒀉𒊑:cloud(|𒅗 :blank(4)|)|
-  block |𒇺𒋗 𒄿𒋛𒋙 𒆷𒀀:cloud(|𒅋𒇷𒅗 :blank(3)|)|
-  block |𒀉𒁺𒁍:cloud(|𒌒 𒈠𒀀 :blank(4)|)|
-  block |𒆷𒀠𒇷:cloud(|𒆠 :blank(5)|)|
-  block |𒋗𒌋 𒆠𒄿 𒊏:cloud(|𒈨𒉌𒋙 𒇸𒌨|)|
-  block |𒀭𒉡𒋆:cloud(|𒀸 𒋗𒈫 𒀀𒆥𒅀|)|
-  block |𒀸 𒅆 𒈗 𒂗:cloud(|𒅀 𒌑𒋛𒁉𒆷𒋙 :blank(2)|)|
-  block |𒀖𒁍𒁍:blank(7)|
-  block |:blank(2)𒊒:blank(7)|
-  block |:blank(2)𒈠 𒊑:blank(6)|
+text <The Prelate of Sippar Goes to the King>
+  text <𒀊𒋫𒀪:blank(6)>
+  text <𒊭 𒈗 𒁁:cloud(|𒉌 𒅖𒁓𒀭𒉌|)>
+  text <𒈠𒀀 𒊮:cloud(|𒌓 :blank(4)|)>
+  text <𒊭 𒌷𒈨:cloud(|𒌓 :blank(5)|)>
+  text <𒈠𒀀 𒇸:cloud(|𒇷𒆪𒌋𒉌 :blank(3)|)>
+  text <𒀖:cloud(|𒁍𒁍 :blank(3)|)>
+  text <𒈠𒆷 𒀉𒊑:cloud(|𒅗 :blank(4)|)>
+  text <𒇺𒋗 𒄿𒋛𒋙 𒆷𒀀:cloud(|𒅋𒇷𒅗 :blank(3)|)>
+  text <𒀉𒁺𒁍:cloud(|𒌒 𒈠𒀀 :blank(4)|)>
+  text <𒆷𒀠𒇷:cloud(|𒆠 :blank(5)|)>
+  text <𒋗𒌋 𒆠𒄿 𒊏:cloud(|𒈨𒉌𒋙 𒇸𒌨|)>
+  text <𒀭𒉡𒋆:cloud(|𒀸 𒋗𒈫 𒀀𒆥𒅀|)>
+  text <𒀸 𒅆 𒈗 𒂗:cloud(|𒅀 𒌑𒋛𒁉𒆷𒋙 :blank(2)|)>
+  text <𒀖𒁍𒁍:blank(7)>
+  text <:blank(2)𒊒:blank(7)>
+  text <:blank(2)𒈠 𒊑:blank(6)>

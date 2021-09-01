@@ -1,19 +1,19 @@
 
-block |List of Rations(?)|
-  block |:blank(3)𒑳|
-  block |:blank(2)𒌋𒌋 𒑳|
-  block |:blank(2)𒌋𒐊 𒑳|
-  block |:cloud(|𒉽|)𒐕𒌋 𒑐𒀀𒀀|
-  block |𒈫:blank(3)|
-  block |𒉽 𒐐𒐊:blank(2)|
-  block |𒌋𒌋𒐍 𒌋𒐊:blank(2)|
-  block |𒐏 𒌋𒁹:blank(2)|
-  block |𒌋𒐌 𒌋:blank(2)|
-  block |𒉽 𒐕𒌋𒌋𒐊:blank(2)|
-  block |𒐈:blank(3)|
-  block |𒈫 𒌋𒐊 𒑳:cloud(|o|)|
-  block |𒉽 𒐊 𒑐𒀀𒀀:cloud(|o|)|
-  block |𒉽 𒐉 𒑏𒀀𒀀|
-  block |𒐈 𒌋𒐊 𒑳|
-  block |𒈫 𒌋𒐉 𒑳|
-  block |𒐍 𒌋 𒑳|
+text <List of Rations(?)>
+  text <:blank(3)𒑳>
+  text <:blank(2)𒌋𒌋 𒑳>
+  text <:blank(2)𒌋𒐊 𒑳>
+  text <:cloud(|𒉽|)𒐕𒌋 𒑐𒀀𒀀>
+  text <𒈫:blank(3)>
+  text <𒉽 𒐐𒐊:blank(2)>
+  text <𒌋𒌋𒐍 𒌋𒐊:blank(2)>
+  text <𒐏 𒌋𒁹:blank(2)>
+  text <𒌋𒐌 𒌋:blank(2)>
+  text <𒉽 𒐕𒌋𒌋𒐊:blank(2)>
+  text <𒐈:blank(3)>
+  text <𒈫 𒌋𒐊 𒑳:cloud(|o|)>
+  text <𒉽 𒐊 𒑐𒀀𒀀:cloud(|o|)>
+  text <𒉽 𒐉 𒑏𒀀𒀀>
+  text <𒐈 𒌋𒐊 𒑳>
+  text <𒈫 𒌋𒐉 𒑳>
+  text <𒐍 𒌋 𒑳>

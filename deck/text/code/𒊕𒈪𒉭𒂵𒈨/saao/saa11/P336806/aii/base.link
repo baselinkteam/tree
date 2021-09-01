@@ -1,10 +1,10 @@
 
-block |Flock Tally|
-  block |𒁍𒄬|
-  block |𒐉|
-  block |𒐈|
-  block |𒈫|
-  block |𒀀𒈬|
-  block |𒊩𒍚|
-  block |𒃻 𒁹𒈾:blank(1)|
-  block |𒍝|
+text <Flock Tally>
+  text <𒁍𒄬>
+  text <𒐉>
+  text <𒐈>
+  text <𒈫>
+  text <𒀀𒈬>
+  text <𒊩𒍚>
+  text <𒃻 𒁹𒈾:blank(1)>
+  text <𒍝>

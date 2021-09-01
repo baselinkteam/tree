@@ -1,11 +1,11 @@
 
-block |Fragment Referring to Public Works|
-  block |𒀀𒈾 𒈗:cloud(|𒁁𒉌𒅀|)|
-  block |𒀴𒅗:cloud(|𒁹:blank(5)|)|
-  block |𒇯𒇻 𒊭:blank(4)|
-  block |𒇯𒇻:blank(5)|
-  block |𒊭:blank(6)|
-  block |𒇯:cloud(|𒇻 :blank(5)|)|
-  block |𒇯𒇻:blank(5)|
-  block |𒀸 𒊮𒁉:blank(4)|
-  block |:blank(6)𒄷 𒂊|
+text <Fragment Referring to Public Works>
+  text <𒀀𒈾 𒈗:cloud(|𒁁𒉌𒅀|)>
+  text <𒀴𒅗:cloud(|𒁹:blank(5)|)>
+  text <𒇯𒇻 𒊭:blank(4)>
+  text <𒇯𒇻:blank(5)>
+  text <𒊭:blank(6)>
+  text <𒇯:cloud(|𒇻 :blank(5)|)>
+  text <𒇯𒇻:blank(5)>
+  text <𒀸 𒊮𒁉:blank(4)>
+  text <:blank(6)𒄷 𒂊>

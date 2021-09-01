@@ -1,20 +1,20 @@
 
-block |The Land of the King has Recovered|
-  block |:blank(3)𒉌:blank(3)|
-  block |𒌑𒈠𒀀 𒆳 𒊭 𒈗 𒁁:cloud(|𒉌𒐊|)|
-  block |𒋰𒋫𒆷𒀜|
-  block |𒊮𒁍 𒊭 𒈗 𒁁𒉌:cloud(|𒅀|)|
-  block |𒀀𒆗𒌋𒌋 𒇻𒌋 𒄭𒂵:cloud(|o|)|
-  block |𒀸 𒁍𒌅𒌋𒀀 𒀀:blank(2)|
-  block |𒅎𒋛𒀀 𒀸 𒈬:blank(4)|
-  block |𒊭 𒁹:blank(6)|
-  block |:blank(211)|
-  block |:blank(211)|
-  block |:blank(211)|
-  block |:blank(3)𒌷𒁕:blank(2)|
-  block |:blank(4)𒆠𒈠|
-  block |𒄿𒋢𒄴𒊏|
-  block |𒀀𒈾 𒈗 𒁁𒉌:cloud(|𒐊|)|
-  block |𒀀𒉺𒅁𒉺𒊏|
-  block |𒀸 𒌋𒅗𒄭 𒋢𒄠:cloud(|𒋛 𒊭|)|
-  block |𒀀𒈾 𒈗 𒁁:cloud(|𒉌𒅀|)|
+text <The Land of the King has Recovered>
+  text <:blank(3)𒉌:blank(3)>
+  text <𒌑𒈠𒀀 𒆳 𒊭 𒈗 𒁁:cloud(|𒉌𒐊|)>
+  text <𒋰𒋫𒆷𒀜>
+  text <𒊮𒁍 𒊭 𒈗 𒁁𒉌:cloud(|𒅀|)>
+  text <𒀀𒆗𒌋𒌋 𒇻𒌋 𒄭𒂵:cloud(|o|)>
+  text <𒀸 𒁍𒌅𒌋𒀀 𒀀:blank(2)>
+  text <𒅎𒋛𒀀 𒀸 𒈬:blank(4)>
+  text <𒊭 𒁹:blank(6)>
+  text <:blank(211)>
+  text <:blank(211)>
+  text <:blank(211)>
+  text <:blank(3)𒌷𒁕:blank(2)>
+  text <:blank(4)𒆠𒈠>
+  text <𒄿𒋢𒄴𒊏>
+  text <𒀀𒈾 𒈗 𒁁𒉌:cloud(|𒐊|)>
+  text <𒀀𒉺𒅁𒉺𒊏>
+  text <𒀸 𒌋𒅗𒄭 𒋢𒄠:cloud(|𒋛 𒊭|)>
+  text <𒀀𒈾 𒈗 𒁁:cloud(|𒉌𒅀|)>

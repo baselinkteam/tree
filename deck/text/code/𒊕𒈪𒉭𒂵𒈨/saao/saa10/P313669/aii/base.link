@@ -1,7 +1,7 @@
 
-block |What About the Bath?|
-  block |𒀸 𒌋𒅗 𒊑𒅔𒆠|
-  block |𒈪𒄿𒉡|
-  block |𒊭 𒈗 𒁁𒉌|
-  block |𒄿𒃮𒁍𒌋𒉌|
-  block |:blank(2)𒌑𒈠𒀀|
+text <What About the Bath?>
+  text <𒀸 𒌋𒅗 𒊑𒅔𒆠>
+  text <𒈪𒄿𒉡>
+  text <𒊭 𒈗 𒁁𒉌>
+  text <𒄿𒃮𒁍𒌋𒉌>
+  text <:blank(2)𒌑𒈠𒀀>

@@ -1,19 +1,19 @@
 
-block |Soldiers Idling Time Away in Calah|
-  block |𒋗:blank(4)|
-  block |:blank(4)|
-  block |𒊭:blank(4)|
-  block |𒅎:cloud(|𒄣𒌅𒌋𒉌|)|
-  block |𒀸 𒌷:blank(3)|
-  block |𒄰:cloud(|𒈬𒋢𒉌|)|
-  block |𒀀𒆠 𒊭:blank(3)𒁲|
-  block |𒈜:cloud(|𒈨𒌍|)|
-  block |𒃻𒆠𒊒𒌓|
-  block |𒀲𒂍𒄬𒇻|
-  block |𒄿𒋛𒋗𒉡|
-  block |𒀸 𒃮𒋛 𒌷𒆗𒄭|
-  block |𒄿𒁺𒌋𒇻|
-  block |𒈪𒉡 𒊭 𒁁𒉌|
-  block |𒄿𒋡𒁍𒌋𒉌|
-  block |:cloud(|𒃮𒊒|)𒌑 𒊭 𒂊𒄫𒋼|
-  block |:cloud(|𒁁𒉌 𒌒𒌓 𒇺𒁍𒊏|)|
+text <Soldiers Idling Time Away in Calah>
+  text <𒋗:blank(4)>
+  text <:blank(4)>
+  text <𒊭:blank(4)>
+  text <𒅎:cloud(|𒄣𒌅𒌋𒉌|)>
+  text <𒀸 𒌷:blank(3)>
+  text <𒄰:cloud(|𒈬𒋢𒉌|)>
+  text <𒀀𒆠 𒊭:blank(3)𒁲>
+  text <𒈜:cloud(|𒈨𒌍|)>
+  text <𒃻𒆠𒊒𒌓>
+  text <𒀲𒂍𒄬𒇻>
+  text <𒄿𒋛𒋗𒉡>
+  text <𒀸 𒃮𒋛 𒌷𒆗𒄭>
+  text <𒄿𒁺𒌋𒇻>
+  text <𒈪𒉡 𒊭 𒁁𒉌>
+  text <𒄿𒋡𒁍𒌋𒉌>
+  text <:cloud(|𒃮𒊒|)𒌑 𒊭 𒂊𒄫𒋼>
+  text <:cloud(|𒁁𒉌 𒌒𒌓 𒇺𒁍𒊏|)>

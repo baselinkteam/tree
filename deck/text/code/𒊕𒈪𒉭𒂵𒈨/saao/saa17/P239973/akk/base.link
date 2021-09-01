@@ -1,12 +1,12 @@
 
-block |(no title)|
-  block |𒀴:cloud(|𒅗 𒁹:blank(5)|)|
-  block |𒀀𒈾:cloud(|𒁲𒈾𒀭 :blank(3)|)|
-  block |𒄿:blank(7)|
-  block |𒀀𒈾:blank(6)|
-  block |:blank(7)|
-  block |𒀀:blank(6)|
-  block |:blank(7)|
-  block |:blank(7)|
-  block |𒂟𒈨𒌍:blank(6)|
-  block |𒀀𒈾 :blank(7)|
+text <(no title)>
+  text <𒀴:cloud(|𒅗 𒁹:blank(5)|)>
+  text <𒀀𒈾:cloud(|𒁲𒈾𒀭 :blank(3)|)>
+  text <𒄿:blank(7)>
+  text <𒀀𒈾:blank(6)>
+  text <:blank(7)>
+  text <𒀀:blank(6)>
+  text <:blank(7)>
+  text <:blank(7)>
+  text <𒂟𒈨𒌍:blank(6)>
+  text <𒀀𒈾 :blank(7)>

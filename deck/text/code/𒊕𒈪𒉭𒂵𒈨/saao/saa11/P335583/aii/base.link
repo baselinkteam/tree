@@ -1,6 +1,6 @@
 
-block |Sealed Note of Appointment|
-  block |𒁹𒃼𒄩:blank(4)|
-  block |𒋗𒈫 𒁹𒆰𒆪𒆷𒀀:cloud(|𒉡|)|
-  block |𒌗𒆥 𒌓 𒌋𒌋𒄰|
-  block |𒅆𒈬 𒁹𒌋𒌋𒍗𒋾|
+text <Sealed Note of Appointment>
+  text <𒁹𒃼𒄩:blank(4)>
+  text <𒋗𒈫 𒁹𒆰𒆪𒆷𒀀:cloud(|𒉡|)>
+  text <𒌗𒆥 𒌓 𒌋𒌋𒄰>
+  text <𒅆𒈬 𒁹𒌋𒌋𒍗𒋾>

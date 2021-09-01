@@ -1,10 +1,10 @@
 
-block |Rainy Weather|
-  block |:cloud(|𒁹|)𒈪 𒊓𒄠 𒈬:blank(4)|
-  block |𒅎𒇹𒁀:blank(6)|
-  block |𒁹 𒈪 𒄭𒄿:blank(5)|
-  block |𒅎 𒍣:cloud(|𒈠 :blank(3)|)|
-  block |𒁹 𒀸 𒌓𒈿𒀀 𒀀𒀭 𒋩:cloud(|𒉣|)|
-  block |𒂙 𒆳 𒅍:cloud(|𒈠|)|
-  block |𒆠:cloud(|𒇴|)𒄀:cloud(|𒈾|)|
-  block |:cloud(|𒃻|)𒁹𒍝𒄫|
+text <Rainy Weather>
+  text <:cloud(|𒁹|)𒈪 𒊓𒄠 𒈬:blank(4)>
+  text <𒅎𒇹𒁀:blank(6)>
+  text <𒁹 𒈪 𒄭𒄿:blank(5)>
+  text <𒅎 𒍣:cloud(|𒈠 :blank(3)|)>
+  text <𒁹 𒀸 𒌓𒈿𒀀 𒀀𒀭 𒋩:cloud(|𒉣|)>
+  text <𒂙 𒆳 𒅍:cloud(|𒈠|)>
+  text <𒆠:cloud(|𒇴|)𒄀:cloud(|𒈾|)>
+  text <:cloud(|𒃻|)𒁹𒍝𒄫>

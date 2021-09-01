@@ -1,5 +1,5 @@
 
-block |(no title)|
-  block |:blank(6)|
-  block |:blank(7)𒈲|
-  block |:blank(6)|
+text <(no title)>
+  text <:blank(6)>
+  text <:blank(7)𒈲>
+  text <:blank(6)>

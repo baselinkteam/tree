@@ -1,16 +1,16 @@
 
-block |Fragment of a Conveyance Text|
-  block |:blank(4)𒃻 𒌷𒁀𒍣|
-  block |:blank(4)𒁹𒌋𒅀𒀊|
-  block |:blank(4)𒌷𒁍𒊒𒈾𒌓|
-  block |:blank(5)𒁲 𒌋|
-  block |:blank(7)|
-  block |:blank(4)|
-  block |:cloud(|𒅆 𒁹|)𒂵𒊒𒍮|
-  block |:cloud(|𒅆|)𒁹𒌍𒄿|
-  block |𒉽 𒈫 𒌷𒍑𒋫𒆷𒄭|
-  block |:cloud(|𒅆|)𒁹𒁺𒄿|
-  block |:blank(6)𒁀𒀀|
-  block |:blank(6)𒈫|
-  block |:blank(6)𒉡|
-  block |:blank(5)𒊩 𒀸|
+text <Fragment of a Conveyance Text>
+  text <:blank(4)𒃻 𒌷𒁀𒍣>
+  text <:blank(4)𒁹𒌋𒅀𒀊>
+  text <:blank(4)𒌷𒁍𒊒𒈾𒌓>
+  text <:blank(5)𒁲 𒌋>
+  text <:blank(7)>
+  text <:blank(4)>
+  text <:cloud(|𒅆 𒁹|)𒂵𒊒𒍮>
+  text <:cloud(|𒅆|)𒁹𒌍𒄿>
+  text <𒉽 𒈫 𒌷𒍑𒋫𒆷𒄭>
+  text <:cloud(|𒅆|)𒁹𒁺𒄿>
+  text <:blank(6)𒁀𒀀>
+  text <:blank(6)𒈫>
+  text <:blank(6)𒉡>
+  text <:blank(5)𒊩 𒀸>

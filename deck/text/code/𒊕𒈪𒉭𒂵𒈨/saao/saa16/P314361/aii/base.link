@@ -1,14 +1,14 @@
 
-block |Explaining Asakku|
-  block |:cloud(|𒀀𒈾 𒈗 𒁁𒉌𒅀|)|
-  block |𒀴:cloud(|𒅗 𒁹:blank(4)|)|
-  block |𒇻 𒁲:cloud(|𒈬 𒀀𒈾 𒈗 𒂗𒅀|)|
-  block |𒀭𒉺:cloud(|𒀭𒀫𒌓 𒀀𒈾 𒈗|)|
-  block |𒂗:cloud(|𒅀 𒌨𒊒𒁍|)|
-  block |𒀸 𒌋𒅗:blank(12)|
-  block |𒅖:cloud(|𒁓𒀭𒉌|)|
-  block |𒈠𒀀:blank(4)𒀊𒁍|
-  block |𒇺𒄙:cloud(|𒌋𒉌 :blank(3)|)|
-  block |𒀉𒉺:blank(4)|
-  block |𒀉 𒄑𒉺:blank(3)|
-  block |𒀀𒊕𒆪:blank(3)|
+text <Explaining Asakku>
+  text <:cloud(|𒀀𒈾 𒈗 𒁁𒉌𒅀|)>
+  text <𒀴:cloud(|𒅗 𒁹:blank(4)|)>
+  text <𒇻 𒁲:cloud(|𒈬 𒀀𒈾 𒈗 𒂗𒅀|)>
+  text <𒀭𒉺:cloud(|𒀭𒀫𒌓 𒀀𒈾 𒈗|)>
+  text <𒂗:cloud(|𒅀 𒌨𒊒𒁍|)>
+  text <𒀸 𒌋𒅗:blank(12)>
+  text <𒅖:cloud(|𒁓𒀭𒉌|)>
+  text <𒈠𒀀:blank(4)𒀊𒁍>
+  text <𒇺𒄙:cloud(|𒌋𒉌 :blank(3)|)>
+  text <𒀉𒉺:blank(4)>
+  text <𒀉 𒄑𒉺:blank(3)>
+  text <𒀀𒊕𒆪:blank(3)>

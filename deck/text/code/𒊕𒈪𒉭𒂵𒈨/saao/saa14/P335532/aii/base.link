@@ -1,8 +1,8 @@
 
-block |Purchase of Land|
-  block |:blank(9)𒉌𒋛|
-  block |:blank(10)𒀀|
-  block |:blank(16)𒊒𒋼|
-  block |:blank(10)𒋫𒊏|
-  block |:cloud(|𒀸 𒁲𒉌𒋙 𒅗𒅗𒈠 𒆷 𒄿𒋃|)𒆥|
-  block |:cloud(|𒅆 𒁹:blank(5)|)𒌉𒌷𒋙𒉡|
+text <Purchase of Land>
+  text <:blank(9)𒉌𒋛>
+  text <:blank(10)𒀀>
+  text <:blank(16)𒊒𒋼>
+  text <:blank(10)𒋫𒊏>
+  text <:cloud(|𒀸 𒁲𒉌𒋙 𒅗𒅗𒈠 𒆷 𒄿𒋃|)𒆥>
+  text <:cloud(|𒅆 𒁹:blank(5)|)𒌉𒌷𒋙𒉡>

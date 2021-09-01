@@ -1,8 +1,8 @@
 
-block |(no title)|
-  block |𒈛𒍢:blank(5)|
-  block |𒀾𒁍𒊏:blank(4)|
-  block |𒄿𒁄𒆷:blank(4)|
-  block |𒌅𒁄:blank(5)|
-  block |:cloud(|𒌅|)𒉺𒊍:blank(4)|
-  block |:blank(3)𒁹 :blank(6)|
+text <(no title)>
+  text <𒈛𒍢:blank(5)>
+  text <𒀾𒁍𒊏:blank(4)>
+  text <𒄿𒁄𒆷:blank(4)>
+  text <𒌅𒁄:blank(5)>
+  text <:cloud(|𒌅|)𒉺𒊍:blank(4)>
+  text <:blank(3)𒁹 :blank(6)>

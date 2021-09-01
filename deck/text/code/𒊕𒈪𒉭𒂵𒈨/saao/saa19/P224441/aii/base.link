@@ -1,48 +1,48 @@
 
-block |Barley for Captives|
-  block |𒀀𒈾 𒈗 𒁁𒉌𒅀|
-  block |𒀴𒅗 𒁹𒀸𒋩𒁲𒀀𒉌|
-  block |𒇻𒌋 𒁲𒈬 𒀀𒈾 𒈗 𒁁𒉌𒅀|
-  block |𒊭 𒀀𒈾 𒈗 𒁁𒉌𒐊 𒀾𒁍𒊏𒉌|
-  block |𒈬𒊌 𒆷𒄠𒈥𒆪 𒌦𒈨𒌍|
-  block |𒁉𒀉 𒄿𒁀𒀾𒋗𒉌 𒇻𒉺𒄭𒊏|
-  block |𒀀𒈾 𒈾𒋛𒅗𒋾 𒀾𒊓𒀠|
-  block |𒈠𒀀 𒁹𒂗 𒆷 𒊑𒂊𒄭 𒈠𒀀|
-  block |𒀭𒉡𒁴𒈠 𒋗𒉡|
-  block |𒀭𒉡𒋆 𒈾𒋛𒅗𒀀𒋾|
-  block |𒅋𒆷𒆪𒉌 𒈗 𒁁𒉌|
-  block |𒇺𒀠𒋗𒉡 𒁹𒀖𒀀𒉌𒀭|
-  block |𒀸 𒊮𒁉 𒈥𒁲𒋾 𒊭 𒀀𒈾|
-  block |𒌷𒋼𒀀𒀸𒋩 𒑱 𒅋𒆷𒆪𒉌|
-  block |𒀸 𒅕𒋾𒉌 𒂊𒋼𒇷𒅀𒀀|
-  block |𒊭 𒈗 𒁁𒉌 𒅖𒁍𒊏𒉌|
-  block |𒈠𒀀 𒐋 𒅆 𒄷𒌒𒌅|
-  block |𒀸 𒉺𒉌𒅗 𒊭𒆠𒅋|
-  block |𒀀𒁺 𒈠𒋾 𒐋 𒅆|
-  block |𒐈𒋢𒌑 𒑳 𒋬 𒃲𒈨𒌍 𒃮𒁍|
-  block |𒀀𒁁𒋳 𒆷 𒀀𒈾 𒈗𒂊|
-  block |𒁁𒉌𒐊 𒀸 𒈬𒅎𒈠|
-  block |𒀾𒁓𒊒 𒈬𒊌 𒊺𒉻𒈨𒌍|
-  block |𒆷𒀾𒋙 𒈗 𒁁𒉌|
-  block |𒅅𒁲𒁉𒅀𒀀 𒈠𒀀|
-  block |𒇻𒌋 𒋫𒄷𒊏𒉌 𒐏 𒅆|
-  block |𒊺𒉻𒈨𒌍 𒇻𒌋 𒀀𒁲𒈾𒅗|
-  block |𒌑𒈠𒀀 𒈗 𒌑𒁕𒀀 𒆠𒄿|
-  block |𒊺𒉻𒄿 𒑳 𒆷𒀾𒋗𒉌 𒀀𒁺 𒈠𒋾|
-  block |𒐋 𒅆 𒑳 𒐈 𒅆 𒀖𒁲𒉡𒉌|
-  block |𒐈𒅆𒈠 𒀀𒈾 𒁹𒀭𒌓𒆕𒀀𒀀|
-  block |𒀖𒁲:cloud(|𒉡|)𒀭𒉌𒌑 𒀀𒈾 𒈗|
-  block |𒁁𒉌𒅀 𒀜𒋫𒄯 𒊭 𒈗|
-  block |𒁁𒉌 𒅖𒁍𒊏𒉌 𒈠𒀀|
-  block |𒄷𒌒𒌓 𒌨𒆠𒅀𒌑|
-  block |𒀀𒁕𒈾𒋙𒉡 𒀭𒉌𒅀𒌑|
-  block |𒅖𒋛𒂊𒀀 𒇻𒊭𒀭𒅆𒇻|
-  block |𒌨𒆠𒅀𒌑 𒀀𒈾𒆪|
-  block |𒄿𒋛𒋙𒉡 𒇻𒊭𒀭𒅆𒅋|
-  block |𒄿𒋢𒊑 𒈗 𒁁𒉌 𒄿𒃮𒁉|
-  block |𒈠𒀀 𒀀𒆠𒂊 𒀸 𒅆 𒁹𒀭𒌓𒆕𒀀𒀀|
-  block |𒅕𒊒𒁍 𒈠𒀀 𒀀𒈾 𒈠𒋾:cloud(|o|)|
-  block |𒋼𒀀𒈬 𒁹 𒈨 𒐐 𒌷𒈨𒌍|
-  block |𒋬 𒂦𒈨𒌍 𒊭 𒁹𒀭𒌓𒆕𒀀𒀀|
-  block |𒀀𒈾 𒌷𒇹𒄩 𒀸 𒊮𒁉|
-  block |:blank(1)𒇻𒊺𒊑𒁍|
+text <Barley for Captives>
+  text <𒀀𒈾 𒈗 𒁁𒉌𒅀>
+  text <𒀴𒅗 𒁹𒀸𒋩𒁲𒀀𒉌>
+  text <𒇻𒌋 𒁲𒈬 𒀀𒈾 𒈗 𒁁𒉌𒅀>
+  text <𒊭 𒀀𒈾 𒈗 𒁁𒉌𒐊 𒀾𒁍𒊏𒉌>
+  text <𒈬𒊌 𒆷𒄠𒈥𒆪 𒌦𒈨𒌍>
+  text <𒁉𒀉 𒄿𒁀𒀾𒋗𒉌 𒇻𒉺𒄭𒊏>
+  text <𒀀𒈾 𒈾𒋛𒅗𒋾 𒀾𒊓𒀠>
+  text <𒈠𒀀 𒁹𒂗 𒆷 𒊑𒂊𒄭 𒈠𒀀>
+  text <𒀭𒉡𒁴𒈠 𒋗𒉡>
+  text <𒀭𒉡𒋆 𒈾𒋛𒅗𒀀𒋾>
+  text <𒅋𒆷𒆪𒉌 𒈗 𒁁𒉌>
+  text <𒇺𒀠𒋗𒉡 𒁹𒀖𒀀𒉌𒀭>
+  text <𒀸 𒊮𒁉 𒈥𒁲𒋾 𒊭 𒀀𒈾>
+  text <𒌷𒋼𒀀𒀸𒋩 𒑱 𒅋𒆷𒆪𒉌>
+  text <𒀸 𒅕𒋾𒉌 𒂊𒋼𒇷𒅀𒀀>
+  text <𒊭 𒈗 𒁁𒉌 𒅖𒁍𒊏𒉌>
+  text <𒈠𒀀 𒐋 𒅆 𒄷𒌒𒌅>
+  text <𒀸 𒉺𒉌𒅗 𒊭𒆠𒅋>
+  text <𒀀𒁺 𒈠𒋾 𒐋 𒅆>
+  text <𒐈𒋢𒌑 𒑳 𒋬 𒃲𒈨𒌍 𒃮𒁍>
+  text <𒀀𒁁𒋳 𒆷 𒀀𒈾 𒈗𒂊>
+  text <𒁁𒉌𒐊 𒀸 𒈬𒅎𒈠>
+  text <𒀾𒁓𒊒 𒈬𒊌 𒊺𒉻𒈨𒌍>
+  text <𒆷𒀾𒋙 𒈗 𒁁𒉌>
+  text <𒅅𒁲𒁉𒅀𒀀 𒈠𒀀>
+  text <𒇻𒌋 𒋫𒄷𒊏𒉌 𒐏 𒅆>
+  text <𒊺𒉻𒈨𒌍 𒇻𒌋 𒀀𒁲𒈾𒅗>
+  text <𒌑𒈠𒀀 𒈗 𒌑𒁕𒀀 𒆠𒄿>
+  text <𒊺𒉻𒄿 𒑳 𒆷𒀾𒋗𒉌 𒀀𒁺 𒈠𒋾>
+  text <𒐋 𒅆 𒑳 𒐈 𒅆 𒀖𒁲𒉡𒉌>
+  text <𒐈𒅆𒈠 𒀀𒈾 𒁹𒀭𒌓𒆕𒀀𒀀>
+  text <𒀖𒁲:cloud(|𒉡|)𒀭𒉌𒌑 𒀀𒈾 𒈗>
+  text <𒁁𒉌𒅀 𒀜𒋫𒄯 𒊭 𒈗>
+  text <𒁁𒉌 𒅖𒁍𒊏𒉌 𒈠𒀀>
+  text <𒄷𒌒𒌓 𒌨𒆠𒅀𒌑>
+  text <𒀀𒁕𒈾𒋙𒉡 𒀭𒉌𒅀𒌑>
+  text <𒅖𒋛𒂊𒀀 𒇻𒊭𒀭𒅆𒇻>
+  text <𒌨𒆠𒅀𒌑 𒀀𒈾𒆪>
+  text <𒄿𒋛𒋙𒉡 𒇻𒊭𒀭𒅆𒅋>
+  text <𒄿𒋢𒊑 𒈗 𒁁𒉌 𒄿𒃮𒁉>
+  text <𒈠𒀀 𒀀𒆠𒂊 𒀸 𒅆 𒁹𒀭𒌓𒆕𒀀𒀀>
+  text <𒅕𒊒𒁍 𒈠𒀀 𒀀𒈾 𒈠𒋾:cloud(|o|)>
+  text <𒋼𒀀𒈬 𒁹 𒈨 𒐐 𒌷𒈨𒌍>
+  text <𒋬 𒂦𒈨𒌍 𒊭 𒁹𒀭𒌓𒆕𒀀𒀀>
+  text <𒀀𒈾 𒌷𒇹𒄩 𒀸 𒊮𒁉>
+  text <:blank(1)𒇻𒊺𒊑𒁍>

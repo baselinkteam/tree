@@ -1,7 +1,7 @@
 
-block |(no title)|
-  block |:blank(7)|
-  block |𒀸 𒊮 𒆳𒈠𒊬:cloud(|𒋾 :blank(2)|)|
-  block |𒆬𒌓 𒂊𒍦 𒋧:cloud(|𒀭 :blank(2)|)|
-  block |𒌋𒌆𒇻 𒃻 𒌋𒌋:blank(3)|
-  block |𒌗𒄞:blank(4)|
+text <(no title)>
+  text <:blank(7)>
+  text <𒀸 𒊮 𒆳𒈠𒊬:cloud(|𒋾 :blank(2)|)>
+  text <𒆬𒌓 𒂊𒍦 𒋧:cloud(|𒀭 :blank(2)|)>
+  text <𒌋𒌆𒇻 𒃻 𒌋𒌋:blank(3)>
+  text <𒌗𒄞:blank(4)>

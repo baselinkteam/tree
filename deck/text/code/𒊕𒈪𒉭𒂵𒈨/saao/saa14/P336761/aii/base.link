@@ -1,9 +1,9 @@
 
-block |Fragment of a Conveyance Text|
-  block |𒉌𒌓𒈩:blank(5)|
-  block |𒂗:blank(5)|
-  block |:blank(6)|
-  block |:blank(8)|
-  block |𒁀:blank(6)|
-  block |𒅆𒈬:cloud(|𒁹:blank(4)|)|
-  block |𒃻:cloud(|𒆳 :blank(4)|)|
+text <Fragment of a Conveyance Text>
+  text <𒉌𒌓𒈩:blank(5)>
+  text <𒂗:blank(5)>
+  text <:blank(6)>
+  text <:blank(8)>
+  text <𒁀:blank(6)>
+  text <𒅆𒈬:cloud(|𒁹:blank(4)|)>
+  text <𒃻:cloud(|𒆳 :blank(4)|)>

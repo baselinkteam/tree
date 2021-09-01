@@ -1,13 +1,13 @@
 
-block |Luqu Lends Silver (*648)|
-  block |:blank(5)𒈾 𒆬𒌓|
-  block |:cloud(|𒊭 𒁹|)𒇻𒆠|
-  block |:cloud(|𒀸 𒅆 𒁹|)𒆗𒉌𒄿|
-  block |:cloud(|𒀀𒈾 𒐉|)𒌓 𒃲|
-  block |:cloud(|𒌗:blank(1)|)𒌓 𒐉 o|
-  block |:cloud(|𒅆𒈬 𒁹|)𒂗𒋙:cloud(|𒉡|)|
-  block |:cloud(|𒅆 𒁹𒀭|)𒀝:blank(1)|
-  block |:cloud(|𒅆 𒁹:blank(2)|)𒀀𒀀|
-  block |:cloud(|𒅆 𒁹|)𒄥𒁲𒌋|
-  block |:cloud(|𒅆 𒁹|)𒋳𒈠𒅀𒌋|
-  block |:cloud(|𒅆 𒁹|)𒆷𒋼𒄀𒁹|
+text <Luqu Lends Silver (*648)>
+  text <:blank(5)𒈾 𒆬𒌓>
+  text <:cloud(|𒊭 𒁹|)𒇻𒆠>
+  text <:cloud(|𒀸 𒅆 𒁹|)𒆗𒉌𒄿>
+  text <:cloud(|𒀀𒈾 𒐉|)𒌓 𒃲>
+  text <:cloud(|𒌗:blank(1)|)𒌓 𒐉 o>
+  text <:cloud(|𒅆𒈬 𒁹|)𒂗𒋙:cloud(|𒉡|)>
+  text <:cloud(|𒅆 𒁹𒀭|)𒀝:blank(1)>
+  text <:cloud(|𒅆 𒁹:blank(2)|)𒀀𒀀>
+  text <:cloud(|𒅆 𒁹|)𒄥𒁲𒌋>
+  text <:cloud(|𒅆 𒁹|)𒋳𒈠𒅀𒌋>
+  text <:cloud(|𒅆 𒁹|)𒆷𒋼𒄀𒁹>

@@ -1,20 +1,20 @@
 
-block |Fragment Mentioning Merodach-Baladan|
-  block |:blank(2)𒅀 𒋡 :blank(7)|
-  block |𒌌𒌅 𒂍:blank(5)|
-  block |𒀀𒁲 𒆍𒀀𒇉:cloud(|𒈥𒋥 :blank(3)|)|
-  block |𒅇 𒈗 𒌌:blank(5)|
-  block |𒂍𒁹𒍝𒁉:cloud(|𒁲 :blank(5)|)|
-  block |𒁹𒀭𒀫𒌓𒀀:cloud(|𒈬 :blank(4)|)|
-  block |𒈗 𒌌𒋼:blank(5)|
-  block |𒃻 𒂍𒁹𒊕:blank(5)|
-  block |:blank(9)|
-  block |:blank(8)|
-  block |𒀀𒈾:blank(6)|
-  block |𒃻 𒆬𒌓 :blank(6)|
-  block |𒃻 𒄒𒊓:blank(5)|
-  block |𒅇 𒄀:blank(5)|
-  block |𒌑𒅗𒉡:blank(5)|
-  block |𒃻 𒈗 𒀉:blank(5)|
-  block |𒉺𒉌:blank(6)|
-  block |𒆠:cloud(|𒄿 :blank(6)|)|
+text <Fragment Mentioning Merodach-Baladan>
+  text <:blank(2)𒅀 𒋡 :blank(7)>
+  text <𒌌𒌅 𒂍:blank(5)>
+  text <𒀀𒁲 𒆍𒀀𒇉:cloud(|𒈥𒋥 :blank(3)|)>
+  text <𒅇 𒈗 𒌌:blank(5)>
+  text <𒂍𒁹𒍝𒁉:cloud(|𒁲 :blank(5)|)>
+  text <𒁹𒀭𒀫𒌓𒀀:cloud(|𒈬 :blank(4)|)>
+  text <𒈗 𒌌𒋼:blank(5)>
+  text <𒃻 𒂍𒁹𒊕:blank(5)>
+  text <:blank(9)>
+  text <:blank(8)>
+  text <𒀀𒈾:blank(6)>
+  text <𒃻 𒆬𒌓 :blank(6)>
+  text <𒃻 𒄒𒊓:blank(5)>
+  text <𒅇 𒄀:blank(5)>
+  text <𒌑𒅗𒉡:blank(5)>
+  text <𒃻 𒈗 𒀉:blank(5)>
+  text <𒉺𒉌:blank(6)>
+  text <𒆠:cloud(|𒄿 :blank(6)|)>

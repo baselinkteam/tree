@@ -1,7 +1,7 @@
 
-block |Report on Ludu|
-  block |𒀀𒈾:cloud(|𒈗 𒁁𒉌𒅀|)|
-  block |𒀴𒅗:cloud(|𒁹:blank(5)|)|
-  block |𒇻 𒁲𒈬 𒀀𒈾:cloud(|𒈗 𒂗𒅀|)|
-  block |𒁹𒇻𒁺𒌑 𒌷:blank(7)|
-  block |𒊭:cloud(|𒀀𒈾 𒈗|)𒂗:cloud(|𒅀 :blank(3)|)|
+text <Report on Ludu>
+  text <𒀀𒈾:cloud(|𒈗 𒁁𒉌𒅀|)>
+  text <𒀴𒅗:cloud(|𒁹:blank(5)|)>
+  text <𒇻 𒁲𒈬 𒀀𒈾:cloud(|𒈗 𒂗𒅀|)>
+  text <𒁹𒇻𒁺𒌑 𒌷:blank(7)>
+  text <𒊭:cloud(|𒀀𒈾 𒈗|)𒂗:cloud(|𒅀 :blank(3)|)>

@@ -1,25 +1,25 @@
 
-block |A Crime Committed|
-  block |:blank(9):blank(2)|
-  block |:blank(7)𒄿𒁀𒀾𒅆𒄿|
-  block |:blank(7)𒌗𒈨𒌍|
-  block |:blank(7)𒈠𒋾 𒌑𒅆𒅁|
-  block |:blank(6)𒄠𒈠 𒄭𒀉𒂅 𒄴𒁲|
-  block |:blank(6)𒄿𒄩𒀜𒁲|
-  block |:blank(6)𒊭 𒂊𒁍𒍑𒌋𒉌|
-  block |:blank(6)𒌅 𒊭 𒌋𒌋 𒂗𒐊|
-  block |:blank(5)𒋥 𒈗 𒀀𒈾 𒀴𒋙|
-  block |:blank(5)𒇻𒊓𒄭𒊒|
-  block |:blank(8)𒈪𒄿𒉡|
-  block |:blank(12)|
-  block |:blank(11)|
-  block |:blank(10)𒋙|
-  block |:blank(10)𒁉𒅀|
-  block |:blank(10)𒋾|
-  block |:blank(12)𒌓𒈨|
-  block |:blank(379)|
-  block |:blank(10)𒌋𒉌𒋙|
-  block |:blank(10)𒁁|
-  block |:blank(379)|
-  block |:blank(10)𒋗𒌋|
-  block |:blank(10)𒅀|
+text <A Crime Committed>
+  text <:blank(9):blank(2)>
+  text <:blank(7)𒄿𒁀𒀾𒅆𒄿>
+  text <:blank(7)𒌗𒈨𒌍>
+  text <:blank(7)𒈠𒋾 𒌑𒅆𒅁>
+  text <:blank(6)𒄠𒈠 𒄭𒀉𒂅 𒄴𒁲>
+  text <:blank(6)𒄿𒄩𒀜𒁲>
+  text <:blank(6)𒊭 𒂊𒁍𒍑𒌋𒉌>
+  text <:blank(6)𒌅 𒊭 𒌋𒌋 𒂗𒐊>
+  text <:blank(5)𒋥 𒈗 𒀀𒈾 𒀴𒋙>
+  text <:blank(5)𒇻𒊓𒄭𒊒>
+  text <:blank(8)𒈪𒄿𒉡>
+  text <:blank(12)>
+  text <:blank(11)>
+  text <:blank(10)𒋙>
+  text <:blank(10)𒁉𒅀>
+  text <:blank(10)𒋾>
+  text <:blank(12)𒌓𒈨>
+  text <:blank(379)>
+  text <:blank(10)𒌋𒉌𒋙>
+  text <:blank(10)𒁁>
+  text <:blank(379)>
+  text <:blank(10)𒋗𒌋>
+  text <:blank(10)𒅀>

@@ -1,15 +1,15 @@
 
-block |Note Relating to Temple Personnel(?)|
-  block |𒂵:blank(3)|
-  block |𒆤:blank(3)|
-  block |𒁹𒆍𒀭:cloud(|𒀀𒀀|)|
-  block |𒁹𒀭𒌍:blank(2)|
-  block |𒁹𒄀𒉌𒅀:cloud(|o|)|
-  block |𒁹𒀸𒋩𒈬𒁺:cloud(|o|)|
-  block |𒁁𒌓 𒋫𒀀𒀀𒊒|
-  block |:blank(2)𒍑𒆪|
-  block |𒋗𒌅𒈠:blank(2)|
-  block |:cloud(|𒇽|)𒈜:cloud(|𒈨𒌍|)|
-  block |𒁹𒉽𒇻:blank(1)|
-  block |𒊭 𒂍:blank(1)|
-  block |:blank(1)𒀸:blank(2)|
+text <Note Relating to Temple Personnel(?)>
+  text <𒂵:blank(3)>
+  text <𒆤:blank(3)>
+  text <𒁹𒆍𒀭:cloud(|𒀀𒀀|)>
+  text <𒁹𒀭𒌍:blank(2)>
+  text <𒁹𒄀𒉌𒅀:cloud(|o|)>
+  text <𒁹𒀸𒋩𒈬𒁺:cloud(|o|)>
+  text <𒁁𒌓 𒋫𒀀𒀀𒊒>
+  text <:blank(2)𒍑𒆪>
+  text <𒋗𒌅𒈠:blank(2)>
+  text <:cloud(|𒇽|)𒈜:cloud(|𒈨𒌍|)>
+  text <𒁹𒉽𒇻:blank(1)>
+  text <𒊭 𒂍:blank(1)>
+  text <:blank(1)𒀸:blank(2)>

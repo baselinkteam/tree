@@ -1,8 +1,8 @@
 
-block |Purchase of a House|
-  block |:cloud(|𒉌𒌓|)𒈩:cloud(|𒁹:blank(3)|)|
-  block |𒂗 𒂍:cloud(|𒋧𒀀𒉌|)|
-  block |𒂍 𒅁𒋙 𒀀𒁲 𒄑:cloud(|𒅅𒈨𒌍𒋙|)|
-  block |𒀀𒁲 𒄑𒃡𒈨𒌍𒋙:blank(4)|
-  block |𒋦 𒁹𒌋𒌋𒄿 𒋦:blank(4)|
-  block |𒋦 𒁹:blank(8)|
+text <Purchase of a House>
+  text <:cloud(|𒉌𒌓|)𒈩:cloud(|𒁹:blank(3)|)>
+  text <𒂗 𒂍:cloud(|𒋧𒀀𒉌|)>
+  text <𒂍 𒅁𒋙 𒀀𒁲 𒄑:cloud(|𒅅𒈨𒌍𒋙|)>
+  text <𒀀𒁲 𒄑𒃡𒈨𒌍𒋙:blank(4)>
+  text <𒋦 𒁹𒌋𒌋𒄿 𒋦:blank(4)>
+  text <𒋦 𒁹:blank(8)>

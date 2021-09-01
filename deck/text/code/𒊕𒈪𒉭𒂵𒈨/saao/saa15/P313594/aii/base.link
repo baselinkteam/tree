@@ -1,13 +1,13 @@
 
-block |Fragment Mentioning a Golden Seal|
-  block |:cloud(|𒀀𒈾 𒈗 𒁁𒉌|)𒅀|
-  block |:cloud(|𒀴𒅗 𒁹:blank(4)|)𒀀𒀀|
-  block |:cloud(|𒇻 𒁲𒈬 𒀀𒈾|)𒈗 𒁁𒉌𒐊|
-  block |:cloud(|𒆠𒄿 :blank(2)|)𒉌 𒈗|
-  block |:cloud(|𒀸 𒉺𒉌|)𒂊𒀀|
-  block |:cloud(|𒅋𒇷𒆪|)𒉌𒉌|
-  block |:blank(4)𒀊𒉿|
-  block |:blank(4)𒋗𒄥 𒆬𒄀|
-  block |:blank(4)𒌑𒌅|
-  block |:blank(3)𒌓𒁲𒈾|
-  block |:blank(127)|
+text <Fragment Mentioning a Golden Seal>
+  text <:cloud(|𒀀𒈾 𒈗 𒁁𒉌|)𒅀>
+  text <:cloud(|𒀴𒅗 𒁹:blank(4)|)𒀀𒀀>
+  text <:cloud(|𒇻 𒁲𒈬 𒀀𒈾|)𒈗 𒁁𒉌𒐊>
+  text <:cloud(|𒆠𒄿 :blank(2)|)𒉌 𒈗>
+  text <:cloud(|𒀸 𒉺𒉌|)𒂊𒀀>
+  text <:cloud(|𒅋𒇷𒆪|)𒉌𒉌>
+  text <:blank(4)𒀊𒉿>
+  text <:blank(4)𒋗𒄥 𒆬𒄀>
+  text <:blank(4)𒌑𒌅>
+  text <:blank(3)𒌓𒁲𒈾>
+  text <:blank(127)>

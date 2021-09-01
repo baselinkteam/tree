@@ -1,20 +1,20 @@
 
-block |Query Similar to No. 264|
-  block |:cloud(|𒉺𒀭 𒀭𒋾𒅗 𒃲𒄿 𒅇|)𒉺𒀭 𒂗 𒃲𒄿 𒀭𒀫:cloud(|𒌓|)𒈠𒄭𒂊𒊑|
-  block |:cloud(|𒀭𒌓𒅗 𒃲𒋾 𒍪𒂊 𒄿𒈾|)𒁲𒁴 𒄿𒈾:cloud(|𒅗|)𒀭𒋾𒅗 𒃲𒋾|
-  block |:cloud(|𒀭𒌓 𒂗 𒃲𒌑|)𒋡𒁉𒄿 𒆪𒌦𒌑|
-  block |:cloud(|𒅆𒊒|)𒅆𒊏 𒊺𒈬𒌑 𒄿𒋆𒈨𒂊|
-  block |:cloud(|𒂊𒍦 𒃻 𒁲𒅔 𒌓𒈨|)𒀭𒉌𒂊 𒁶 𒄭𒂵 𒁶 𒄩:cloud(|𒂅|)𒌑|
-  block |:cloud(|𒂊𒍦 𒃻 𒆬 𒇻𒀪𒌑|)𒀬𒀬 𒋳𒈨𒌍 𒌑𒇻 𒀀𒈾 𒅆 𒀬𒀬 𒄃𒈨𒌍𒆪|
-  block |:cloud(|𒂊𒍦 𒃻 𒇻|)𒀪𒌑:cloud(|𒇻|)𒀪𒌑𒌓 𒆠 𒈧 𒁳𒁳𒈠 𒌑𒇷𒀪𒌑|
-  block |:cloud(|𒂊𒍦 𒃻 𒄿|)𒈾 𒆠 𒀭𒉌𒂊 𒇻𒀪𒌑 𒈧 𒈧𒌑|
-  block |:cloud(|𒂊𒍦 𒃻 𒇻|)𒀴 𒀭𒋾𒅗 𒃻 𒀀𒈾 𒈧 𒈧𒌑 𒇲𒌑 𒄩𒂅𒌑|
-  block |:cloud(|𒂊𒍦 𒃻|)𒋳𒀉 𒊕𒆠 𒇻𒀴 𒌆 𒄀𒉌:cloud(|𒂊𒋙|)𒅈𒃻𒀀𒋾 𒆗𒋙|
-  block |:cloud(|𒊩𒈠|)𒇻𒀪𒌑 𒅥:cloud(|𒅘|)𒌑 𒋁𒋙|
-  block |:cloud(|𒂊𒍦 𒃻 𒀀𒈾|)𒆪 𒌉𒇽𒄬 𒀴𒅗 𒌆 𒄀:cloud(|𒉌𒂊|)𒀀 𒌒𒆳 𒆗𒃻𒆪|
-  block |:cloud(|𒊩𒈠 𒇻𒀪𒌑 𒅥 𒅘𒌑|)𒋁𒋙 𒀀𒈨𒌍 𒂁𒄩𒊍𒉺 𒍥𒆳𒂷 𒉈 𒋳𒈨𒌍|
-  block |:cloud(|𒆪𒌦 𒋗 𒁄𒌑 𒍑𒉿𒇻|)𒌑𒇻 𒋫𒁁 𒄿𒈾 𒅗𒈬 𒌒𒋻𒊑𒁺|
-  block |:cloud(|𒇻𒌑 𒍣𒈨𒌍𒄩 𒇻𒌑 𒁇|)𒈨𒌍𒊏 𒀀𒊩𒅗 𒀭𒌓 𒂗 𒃲𒌑|
-  block |:cloud(|𒆠𒄿 𒌓 :blank(1)𒆚 𒊭 𒌗𒄞 𒃻|)𒈬𒀭𒈾 𒂊𒊑𒅁𒋾|
-  block |:cloud(|𒍝𒇴 𒀭𒀫𒌓 𒂗 𒃲𒄿 𒀸 𒌷|)𒊮𒌷 𒀀𒈾 𒊮 𒄑𒈣𒄷𒋛 𒌑𒊺𒇻𒌑𒈠|
-  block |:cloud(|𒌨𒄩 𒆜 𒄿𒂟𒁀𒌅𒈠|)𒀀𒈾 𒆍:cloud(|𒀭|)𒊏𒆠 𒁺𒆪𒈠|
+text <Query Similar to No. 264>
+  text <:cloud(|𒉺𒀭 𒀭𒋾𒅗 𒃲𒄿 𒅇|)𒉺𒀭 𒂗 𒃲𒄿 𒀭𒀫:cloud(|𒌓|)𒈠𒄭𒂊𒊑>
+  text <:cloud(|𒀭𒌓𒅗 𒃲𒋾 𒍪𒂊 𒄿𒈾|)𒁲𒁴 𒄿𒈾:cloud(|𒅗|)𒀭𒋾𒅗 𒃲𒋾>
+  text <:cloud(|𒀭𒌓 𒂗 𒃲𒌑|)𒋡𒁉𒄿 𒆪𒌦𒌑>
+  text <:cloud(|𒅆𒊒|)𒅆𒊏 𒊺𒈬𒌑 𒄿𒋆𒈨𒂊>
+  text <:cloud(|𒂊𒍦 𒃻 𒁲𒅔 𒌓𒈨|)𒀭𒉌𒂊 𒁶 𒄭𒂵 𒁶 𒄩:cloud(|𒂅|)𒌑>
+  text <:cloud(|𒂊𒍦 𒃻 𒆬 𒇻𒀪𒌑|)𒀬𒀬 𒋳𒈨𒌍 𒌑𒇻 𒀀𒈾 𒅆 𒀬𒀬 𒄃𒈨𒌍𒆪>
+  text <:cloud(|𒂊𒍦 𒃻 𒇻|)𒀪𒌑:cloud(|𒇻|)𒀪𒌑𒌓 𒆠 𒈧 𒁳𒁳𒈠 𒌑𒇷𒀪𒌑>
+  text <:cloud(|𒂊𒍦 𒃻 𒄿|)𒈾 𒆠 𒀭𒉌𒂊 𒇻𒀪𒌑 𒈧 𒈧𒌑>
+  text <:cloud(|𒂊𒍦 𒃻 𒇻|)𒀴 𒀭𒋾𒅗 𒃻 𒀀𒈾 𒈧 𒈧𒌑 𒇲𒌑 𒄩𒂅𒌑>
+  text <:cloud(|𒂊𒍦 𒃻|)𒋳𒀉 𒊕𒆠 𒇻𒀴 𒌆 𒄀𒉌:cloud(|𒂊𒋙|)𒅈𒃻𒀀𒋾 𒆗𒋙>
+  text <:cloud(|𒊩𒈠|)𒇻𒀪𒌑 𒅥:cloud(|𒅘|)𒌑 𒋁𒋙>
+  text <:cloud(|𒂊𒍦 𒃻 𒀀𒈾|)𒆪 𒌉𒇽𒄬 𒀴𒅗 𒌆 𒄀:cloud(|𒉌𒂊|)𒀀 𒌒𒆳 𒆗𒃻𒆪>
+  text <:cloud(|𒊩𒈠 𒇻𒀪𒌑 𒅥 𒅘𒌑|)𒋁𒋙 𒀀𒈨𒌍 𒂁𒄩𒊍𒉺 𒍥𒆳𒂷 𒉈 𒋳𒈨𒌍>
+  text <:cloud(|𒆪𒌦 𒋗 𒁄𒌑 𒍑𒉿𒇻|)𒌑𒇻 𒋫𒁁 𒄿𒈾 𒅗𒈬 𒌒𒋻𒊑𒁺>
+  text <:cloud(|𒇻𒌑 𒍣𒈨𒌍𒄩 𒇻𒌑 𒁇|)𒈨𒌍𒊏 𒀀𒊩𒅗 𒀭𒌓 𒂗 𒃲𒌑>
+  text <:cloud(|𒆠𒄿 𒌓 :blank(1)𒆚 𒊭 𒌗𒄞 𒃻|)𒈬𒀭𒈾 𒂊𒊑𒅁𒋾>
+  text <:cloud(|𒍝𒇴 𒀭𒀫𒌓 𒂗 𒃲𒄿 𒀸 𒌷|)𒊮𒌷 𒀀𒈾 𒊮 𒄑𒈣𒄷𒋛 𒌑𒊺𒇻𒌑𒈠>
+  text <:cloud(|𒌨𒄩 𒆜 𒄿𒂟𒁀𒌅𒈠|)𒀀𒈾 𒆍:cloud(|𒀭|)𒊏𒆠 𒁺𒆪𒈠>

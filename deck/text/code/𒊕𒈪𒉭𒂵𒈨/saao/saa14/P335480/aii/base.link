@@ -1,6 +1,6 @@
 
-block |(no title)|
-  block |:blank(11)|
-  block |:blank(8)𒈠𒈾 𒆬𒌓|
-  block |:blank(10)𒉣𒀀𒀀|
-  block |:blank(5)𒃲 𒅆 𒁹𒀭𒉺𒌋𒀀|
+text <(no title)>
+  text <:blank(11)>
+  text <:blank(8)𒈠𒈾 𒆬𒌓>
+  text <:blank(10)𒉣𒀀𒀀>
+  text <:blank(5)𒃲 𒅆 𒁹𒀭𒉺𒌋𒀀>

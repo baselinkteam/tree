@@ -1,13 +1,13 @@
 
-block |Fragment of a List of Valuables|
-  block |:blank(5)𒆪𒌝𒈨|
-  block |:blank(3)𒍪 𒄿𒋢𒊑|
-  block |:cloud(|𒈗 𒁁|)𒉌 𒄿𒃮𒁉|
-  block |:cloud(|𒈠𒀀|)𒈪𒄿𒉡 𒅆𒄿𒈾|
-  block |:cloud(|𒍝𒄭𒋫|)𒀀𒋼|
-  block |:blank(5)𒋼|
-  block |:blank(5)𒍏𒈨𒌍|
-  block |:blank(4)𒄩 𒍏𒈨𒌍|
-  block |:blank(5)𒌓 𒋢𒈨𒌍|
-  block |:blank(4)𒈨 𒅖𒉻 𒍏|
-  block |:blank(8)|
+text <Fragment of a List of Valuables>
+  text <:blank(5)𒆪𒌝𒈨>
+  text <:blank(3)𒍪 𒄿𒋢𒊑>
+  text <:cloud(|𒈗 𒁁|)𒉌 𒄿𒃮𒁉>
+  text <:cloud(|𒈠𒀀|)𒈪𒄿𒉡 𒅆𒄿𒈾>
+  text <:cloud(|𒍝𒄭𒋫|)𒀀𒋼>
+  text <:blank(5)𒋼>
+  text <:blank(5)𒍏𒈨𒌍>
+  text <:blank(4)𒄩 𒍏𒈨𒌍>
+  text <:blank(5)𒌓 𒋢𒈨𒌍>
+  text <:blank(4)𒈨 𒅖𒉻 𒍏>
+  text <:blank(8)>

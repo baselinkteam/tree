@@ -1,13 +1,13 @@
 
-block |Rain and Travel Problems|
-  block |:blank(7)𒋾|
-  block |:blank(253)|
-  block |:blank(7)𒋼|
-  block |:blank(295)|
-  block |:blank(295)|
-  block |:blank(9)|
-  block |:cloud(|𒀀𒀭|)𒈨𒌍 𒀸 𒌋𒅗𒄭𒋙|
-  block |𒄿𒍝𒉣 𒑱 𒋧𒈬 𒃼𒄷|
-  block |𒀸 𒌋𒅗𒄭𒋙 𒑱 𒆷 𒅅𒊒𒄷|
-  block |𒀸 𒈨𒌍𒆷𒀀𒋾 𒊭 𒌗𒍩|
-  block |𒉡𒊏𒈠|
+text <Rain and Travel Problems>
+  text <:blank(7)𒋾>
+  text <:blank(253)>
+  text <:blank(7)𒋼>
+  text <:blank(295)>
+  text <:blank(295)>
+  text <:blank(9)>
+  text <:cloud(|𒀀𒀭|)𒈨𒌍 𒀸 𒌋𒅗𒄭𒋙>
+  text <𒄿𒍝𒉣 𒑱 𒋧𒈬 𒃼𒄷>
+  text <𒀸 𒌋𒅗𒄭𒋙 𒑱 𒆷 𒅅𒊒𒄷>
+  text <𒀸 𒈨𒌍𒆷𒀀𒋾 𒊭 𒌗𒍩>
+  text <𒉡𒊏𒈠>

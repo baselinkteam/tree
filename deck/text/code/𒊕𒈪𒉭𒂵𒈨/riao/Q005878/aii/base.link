@@ -1,8 +1,8 @@
 
-block |Tukulti-Ninurta I 42|
-  block |𒋃 𒀭𒀸:cloud(|𒋩|)|
-  block |:blank(1)𒆳𒉽𒄭𒄿 𒆳|
-  block |:cloud(|𒆳𒌑𒄣|)𒈠𒉡 𒅇|
-  block |𒉌𒂍|
-  block |𒅕 𒆳|
-  block |:blank(1)|
+text <Tukulti-Ninurta I 42>
+  text <𒋃 𒀭𒀸:cloud(|𒋩|)>
+  text <:blank(1)𒆳𒉽𒄭𒄿 𒆳>
+  text <:cloud(|𒆳𒌑𒄣|)𒈠𒉡 𒅇>
+  text <𒉌𒂍>
+  text <𒅕 𒆳>
+  text <:blank(1)>

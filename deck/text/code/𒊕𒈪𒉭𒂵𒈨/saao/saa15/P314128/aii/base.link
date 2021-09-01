@@ -1,16 +1,16 @@
 
-block |Cuthaeans Selling Animals|
-  block |:blank(9)|
-  block |𒊭:blank(8)|
-  block |𒈠𒀀:blank(7)|
-  block |𒄑𒉼𒈨𒌍:blank(6)|
-  block |𒌉𒈨𒌍𒄘𒂃:cloud(|𒀀𒆠 :blank(2)|)|
-  block |𒅋𒋃𒌋𒉌 𒌓:blank(4)|
-  block |𒇷 𒁉 𒌑𒈠𒈨:blank(3)|
-  block |:cloud(|𒌒|)𒁍𒇻 𒀸 𒆜𒉿 𒄿:cloud(|𒁺𒉡|)|
-  block |:blank(4)𒂊 𒊑:blank(3)|
-  block |:blank(9)|
-  block |𒀀𒈾:blank(7)|
-  block |𒋬:blank(7)|
-  block |𒈛:blank(7)|
-  block |𒂟:blank(7)|
+text <Cuthaeans Selling Animals>
+  text <:blank(9)>
+  text <𒊭:blank(8)>
+  text <𒈠𒀀:blank(7)>
+  text <𒄑𒉼𒈨𒌍:blank(6)>
+  text <𒌉𒈨𒌍𒄘𒂃:cloud(|𒀀𒆠 :blank(2)|)>
+  text <𒅋𒋃𒌋𒉌 𒌓:blank(4)>
+  text <𒇷 𒁉 𒌑𒈠𒈨:blank(3)>
+  text <:cloud(|𒌒|)𒁍𒇻 𒀸 𒆜𒉿 𒄿:cloud(|𒁺𒉡|)>
+  text <:blank(4)𒂊 𒊑:blank(3)>
+  text <:blank(9)>
+  text <𒀀𒈾:blank(7)>
+  text <𒋬:blank(7)>
+  text <𒈛:blank(7)>
+  text <𒂟:blank(7)>

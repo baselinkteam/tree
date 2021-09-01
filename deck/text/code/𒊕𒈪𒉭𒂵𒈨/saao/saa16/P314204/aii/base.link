@@ -1,10 +1,10 @@
 
-block |(no title)|
-  block |:cloud(|𒀀𒈾 𒈗 𒁁𒉌𒉌|)|
-  block |𒀴:cloud(|𒈨𒌍𒅗 𒁹:blank(3)|)|
-  block |𒁹:blank(5)|
-  block |𒇻:cloud(|𒁲𒈬 𒀀𒈾 𒈗 𒂗𒉌|)|
-  block |𒀭𒀸𒋩:blank(3)|
-  block |𒀀𒈾:cloud(|𒈗 𒂗𒉌|)|
-  block |𒀸 𒅆:blank(7)|
-  block |𒊭 𒈗:blank(5)|
+text <(no title)>
+  text <:cloud(|𒀀𒈾 𒈗 𒁁𒉌𒉌|)>
+  text <𒀴:cloud(|𒈨𒌍𒅗 𒁹:blank(3)|)>
+  text <𒁹:blank(5)>
+  text <𒇻:cloud(|𒁲𒈬 𒀀𒈾 𒈗 𒂗𒉌|)>
+  text <𒀭𒀸𒋩:blank(3)>
+  text <𒀀𒈾:cloud(|𒈗 𒂗𒉌|)>
+  text <𒀸 𒅆:blank(7)>
+  text <𒊭 𒈗:blank(5)>

@@ -1,19 +1,19 @@
 
-block |(no title)|
-  block |:blank(5)𒉘𒉌𒋙|
-  block |:blank(5)𒅎𒄣𒌓|
-  block |:blank(5)𒅎𒌅𒌓|
-  block |:blank(4)𒀀𒌨𒉺𒀭|
-  block |:blank(5)𒌅𒌓|
-  block |:blank(4)𒈾 𒅎𒌅𒌓|
-  block |:blank(6)𒈾𒀜𒉡|
-  block |:blank(4)𒁍𒁕𒈨𒌍|
-  block |:blank(7)𒈪|
-  block |:blank(5)𒁕𒀊𒋙|
-  block |:blank(6)𒀯𒀯|
-  block |:blank(7)𒀯𒋗𒄀|
-  block |:blank(6)𒌑|
-  block |:blank(6)|
-  block |:blank(5)𒈾 𒈗|
-  block |:blank(6)𒁉|
-  block |:blank(253)|
+text <(no title)>
+  text <:blank(5)𒉘𒉌𒋙>
+  text <:blank(5)𒅎𒄣𒌓>
+  text <:blank(5)𒅎𒌅𒌓>
+  text <:blank(4)𒀀𒌨𒉺𒀭>
+  text <:blank(5)𒌅𒌓>
+  text <:blank(4)𒈾 𒅎𒌅𒌓>
+  text <:blank(6)𒈾𒀜𒉡>
+  text <:blank(4)𒁍𒁕𒈨𒌍>
+  text <:blank(7)𒈪>
+  text <:blank(5)𒁕𒀊𒋙>
+  text <:blank(6)𒀯𒀯>
+  text <:blank(7)𒀯𒋗𒄀>
+  text <:blank(6)𒌑>
+  text <:blank(6)>
+  text <:blank(5)𒈾 𒈗>
+  text <:blank(6)𒁉>
+  text <:blank(253)>

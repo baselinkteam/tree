@@ -1,8 +1,8 @@
 
-block |Five Recipients ...|
-  block |𒀀𒈾 𒁹𒀭𒅎𒀀:cloud(|𒀸|)|
-  block |𒀀𒈾 𒁹𒀭𒋗𒋧:blank(2)|
-  block |𒀀𒈾 𒁹𒀸𒋩𒈬:blank(3)|
-  block |𒀀𒈾:cloud(|𒁹:blank(5)|)|
-  block |𒌉:blank(5)|
-  block |𒀀𒈾 𒁹𒀭:blank(4)|
+text <Five Recipients ...>
+  text <𒀀𒈾 𒁹𒀭𒅎𒀀:cloud(|𒀸|)>
+  text <𒀀𒈾 𒁹𒀭𒋗𒋧:blank(2)>
+  text <𒀀𒈾 𒁹𒀸𒋩𒈬:blank(3)>
+  text <𒀀𒈾:cloud(|𒁹:blank(5)|)>
+  text <𒌉:blank(5)>
+  text <𒀀𒈾 𒁹𒀭:blank(4)>

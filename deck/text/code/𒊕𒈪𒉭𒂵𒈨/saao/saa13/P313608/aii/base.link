@@ -1,14 +1,14 @@
 
-block |We Have Started Work on the Ritual Bath|
-  block |:blank(5)𒂵𒄠𒈥|
-  block |:blank(2)𒌋𒅗 𒁕𒈬𒆥|
-  block |:blank(3)𒌋𒌆𒇻 𒊭 𒈗 𒁁𒉌|
-  block |:cloud(|𒅖𒀪|)𒇻𒋗𒉌 𒀸 𒌗𒄞|
-  block |:cloud(|𒀀|)𒈾 𒊑𒅎𒆠 𒀀𒈾 𒅆 𒈗|
-  block |𒀀𒁕𒃲 𒀀𒄭𒉌|
-  block |:cloud(|𒀸|)𒌋𒅗𒄭 𒉡𒋫:cloud(|𒈨𒁲|)|
-  block |:cloud(|𒀸|)𒂍 𒊭 :blank(4)|
-  block |:blank(2)𒊭 𒁓𒆠|
-  block |:cloud(|𒊭 𒀭|)𒉺 𒈫 𒀸 𒁹 𒌑|
-  block |:cloud(|𒁍𒁕 :blank(1)𒀸 𒁹|)𒌑 𒂼|
-  block |:blank(3)𒇷𒀪𒌋|
+text <We Have Started Work on the Ritual Bath>
+  text <:blank(5)𒂵𒄠𒈥>
+  text <:blank(2)𒌋𒅗 𒁕𒈬𒆥>
+  text <:blank(3)𒌋𒌆𒇻 𒊭 𒈗 𒁁𒉌>
+  text <:cloud(|𒅖𒀪|)𒇻𒋗𒉌 𒀸 𒌗𒄞>
+  text <:cloud(|𒀀|)𒈾 𒊑𒅎𒆠 𒀀𒈾 𒅆 𒈗>
+  text <𒀀𒁕𒃲 𒀀𒄭𒉌>
+  text <:cloud(|𒀸|)𒌋𒅗𒄭 𒉡𒋫:cloud(|𒈨𒁲|)>
+  text <:cloud(|𒀸|)𒂍 𒊭 :blank(4)>
+  text <:blank(2)𒊭 𒁓𒆠>
+  text <:cloud(|𒊭 𒀭|)𒉺 𒈫 𒀸 𒁹 𒌑>
+  text <:cloud(|𒁍𒁕 :blank(1)𒀸 𒁹|)𒌑 𒂼>
+  text <:blank(3)𒇷𒀪𒌋>

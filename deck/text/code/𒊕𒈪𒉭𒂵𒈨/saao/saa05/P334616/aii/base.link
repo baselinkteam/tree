@@ -1,15 +1,15 @@
 
-block |Buying Ungelded Bulls|
-  block |:cloud(|𒀀𒈾|)𒈗 𒂗𒅀|
-  block |:cloud(|𒀴|)𒅗 𒁹𒌋𒌋𒉡𒆠𒌋|
-  block |𒇻 𒁲𒈬 𒀀𒈾 𒈗|
-  block |𒂗𒅀 𒀸 𒌋𒅗 𒄞𒈨𒌍|
-  block |:cloud(|𒊕|)𒆷𒇻𒌅|
-  block |:cloud(|𒊭|)𒈗 𒁁𒈝|
-  block |:cloud(|𒅖𒁓|)𒀭𒉌|
-  block |:blank(4):blank(3)|
-  block |:blank(7)|
-  block |:cloud(|𒋬|)𒉺𒀭 𒄿𒌓𒀪𒀀:cloud(|𒀀|)|
-  block |𒀸 𒊮 𒆬𒌓 𒇷𒆥𒀀|
-  block |𒉌𒆷𒆥 :blank(1)|
-  block |:blank(1)|
+text <Buying Ungelded Bulls>
+  text <:cloud(|𒀀𒈾|)𒈗 𒂗𒅀>
+  text <:cloud(|𒀴|)𒅗 𒁹𒌋𒌋𒉡𒆠𒌋>
+  text <𒇻 𒁲𒈬 𒀀𒈾 𒈗>
+  text <𒂗𒅀 𒀸 𒌋𒅗 𒄞𒈨𒌍>
+  text <:cloud(|𒊕|)𒆷𒇻𒌅>
+  text <:cloud(|𒊭|)𒈗 𒁁𒈝>
+  text <:cloud(|𒅖𒁓|)𒀭𒉌>
+  text <:blank(4):blank(3)>
+  text <:blank(7)>
+  text <:cloud(|𒋬|)𒉺𒀭 𒄿𒌓𒀪𒀀:cloud(|𒀀|)>
+  text <𒀸 𒊮 𒆬𒌓 𒇷𒆥𒀀>
+  text <𒉌𒆷𒆥 :blank(1)>
+  text <:blank(1)>

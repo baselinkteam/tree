@@ -1,7 +1,7 @@
 
-block |Ashurnasirpal II 063|
-  block |:blank(3)|
-  block |:cloud(|𒋡𒀜|)𒋢 𒅅𒋗𒌓|
-  block |𒀭𒈹 𒊭|
-  block |𒂍 𒀀:blank(1)|
-  block |:cloud(|𒌑𒋛|)𒅎 𒌑𒊬:cloud(|𒈛|)|
+text <Ashurnasirpal II 063>
+  text <:blank(3)>
+  text <:cloud(|𒋡𒀜|)𒋢 𒅅𒋗𒌓>
+  text <𒀭𒈹 𒊭>
+  text <𒂍 𒀀:blank(1)>
+  text <:cloud(|𒌑𒋛|)𒅎 𒌑𒊬:cloud(|𒈛|)>

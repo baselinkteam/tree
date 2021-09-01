@@ -1,25 +1,25 @@
 
-block |Report on a Battle|
-  block |:blank(5)𒀀𒊮 :blank(4)|
-  block |:blank(4)𒀉𒈫𒉌 𒀸 𒌋𒅗𒄭𒋙𒉡|
-  block |:blank(4)𒈠𒀀 𒆤𒌓 𒁹𒂗|
-  block |:blank(5)𒉌𒄑𒂟𒁁|
-  block |:blank(4)𒌅𒀪 𒈠𒀀 𒆷𒀾𒋙|
-  block |:blank(4)𒅆 𒆷 𒅋𒋃|
-  block |:blank(4)𒂟𒈨𒌍 𒊭 𒌑𒁀𒊒𒌋𒉌|
-  block |:blank(4)𒈗𒂊 𒁁𒉌𒐊|
-  block |:blank(5)𒌓 𒄠𒈥 𒈗 𒁁𒉌|
-  block |:blank(6)𒌑𒊩𒅆 𒀀𒈾|
-  block |:blank(6)𒈬𒋾|
-  block |:blank(6)𒈨|
-  block |:blank(6)𒌷|
-  block |:blank(8)|
-  block |:blank(9)𒈪𒄿𒉡|
-  block |:blank(7)𒊑𒋾|
-  block |:blank(7)𒆪|
-  block |:blank(6)𒇻𒌋𒁺|
-  block |:blank(5)𒄿 :blank(1)|
-  block |:blank(6)𒌨|
-  block |:blank(5)𒅋𒁉|
-  block |:blank(6)𒋆 𒌆𒈦𒃶|
-  block |:blank(6)𒈗 𒀀𒀀:blank(1)|
+text <Report on a Battle>
+  text <:blank(5)𒀀𒊮 :blank(4)>
+  text <:blank(4)𒀉𒈫𒉌 𒀸 𒌋𒅗𒄭𒋙𒉡>
+  text <:blank(4)𒈠𒀀 𒆤𒌓 𒁹𒂗>
+  text <:blank(5)𒉌𒄑𒂟𒁁>
+  text <:blank(4)𒌅𒀪 𒈠𒀀 𒆷𒀾𒋙>
+  text <:blank(4)𒅆 𒆷 𒅋𒋃>
+  text <:blank(4)𒂟𒈨𒌍 𒊭 𒌑𒁀𒊒𒌋𒉌>
+  text <:blank(4)𒈗𒂊 𒁁𒉌𒐊>
+  text <:blank(5)𒌓 𒄠𒈥 𒈗 𒁁𒉌>
+  text <:blank(6)𒌑𒊩𒅆 𒀀𒈾>
+  text <:blank(6)𒈬𒋾>
+  text <:blank(6)𒈨>
+  text <:blank(6)𒌷>
+  text <:blank(8)>
+  text <:blank(9)𒈪𒄿𒉡>
+  text <:blank(7)𒊑𒋾>
+  text <:blank(7)𒆪>
+  text <:blank(6)𒇻𒌋𒁺>
+  text <:blank(5)𒄿 :blank(1)>
+  text <:blank(6)𒌨>
+  text <:blank(5)𒅋𒁉>
+  text <:blank(6)𒋆 𒌆𒈦𒃶>
+  text <:blank(6)𒈗 𒀀𒀀:blank(1)>

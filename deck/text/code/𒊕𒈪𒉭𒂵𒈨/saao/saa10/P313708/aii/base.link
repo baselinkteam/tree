@@ -1,18 +1,18 @@
 
-block |Lunar Observations|
-  block |:blank(6)|
-  block |𒀭𒌍:cloud(|𒀭|)𒈪:blank(3)|
-  block |𒌓 𒌋𒐈𒆚 :blank(4)|
-  block |𒀭𒈪:blank(3)|
-  block |𒌓𒈬 𒌨𒁍:blank(3)|
-  block |𒌓 𒌍𒆚 :blank(4)|
-  block |𒋬 𒊮𒁉:blank(3)|
-  block |𒅅𒋫𒊏:cloud(|𒅈 :blank(3)|)|
-  block |:blank(5)|
-  block |𒀀𒈾:blank(3)|
-  block |𒈠:blank(3)|
-  block |𒀀𒈾:blank(3)|
-  block |𒀭:blank(3)|
-  block |𒀀:blank(3)|
-  block |𒀀:blank(3)|
-  block |:blank(4)|
+text <Lunar Observations>
+  text <:blank(6)>
+  text <𒀭𒌍:cloud(|𒀭|)𒈪:blank(3)>
+  text <𒌓 𒌋𒐈𒆚 :blank(4)>
+  text <𒀭𒈪:blank(3)>
+  text <𒌓𒈬 𒌨𒁍:blank(3)>
+  text <𒌓 𒌍𒆚 :blank(4)>
+  text <𒋬 𒊮𒁉:blank(3)>
+  text <𒅅𒋫𒊏:cloud(|𒅈 :blank(3)|)>
+  text <:blank(5)>
+  text <𒀀𒈾:blank(3)>
+  text <𒈠:blank(3)>
+  text <𒀀𒈾:blank(3)>
+  text <𒀭:blank(3)>
+  text <𒀀:blank(3)>
+  text <𒀀:blank(3)>
+  text <:blank(4)>

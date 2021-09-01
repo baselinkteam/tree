@@ -1,8 +1,8 @@
 
-block |Fragmentary List of Land and People|
-  block |:blank(85)|
-  block |𒀳:blank(3)|
-  block |𒁹𒌋𒄥𒋾:blank(2)|
-  block |𒌋𒌋 𒀲 𒀀𒊮:blank(2)|
-  block |𒅇 𒐉 𒃲𒌷:blank(2)|
-  block |𒐈 𒀲 𒁹𒑏:blank(2)|
+text <Fragmentary List of Land and People>
+  text <:blank(85)>
+  text <𒀳:blank(3)>
+  text <𒁹𒌋𒄥𒋾:blank(2)>
+  text <𒌋𒌋 𒀲 𒀀𒊮:blank(2)>
+  text <𒅇 𒐉 𒃲𒌷:blank(2)>
+  text <𒐈 𒀲 𒁹𒑏:blank(2)>

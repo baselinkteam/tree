@@ -1,8 +1,8 @@
 
-block |Erišum I 17|
-  block |𒄿𒊑:cloud(|𒋳|)|
-  block |𒉺𒋼𒋛|
-  block |𒀭𒀀𒋓|
-  block |𒌉:cloud(|𒀭|)𒋗𒈠|
-  block |𒉺𒋼𒋛|
-  block |𒀭𒀀:cloud(|𒋓|)|
+text <Erišum I 17>
+  text <𒄿𒊑:cloud(|𒋳|)>
+  text <𒉺𒋼𒋛>
+  text <𒀭𒀀𒋓>
+  text <𒌉:cloud(|𒀭|)𒋗𒈠>
+  text <𒉺𒋼𒋛>
+  text <𒀭𒀀:cloud(|𒋓|)>

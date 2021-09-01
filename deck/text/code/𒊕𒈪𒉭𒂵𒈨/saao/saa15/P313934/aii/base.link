@@ -1,10 +1,10 @@
 
-block |(no title)|
-  block |:blank(8)𒁍|
-  block |:blank(7)𒌷𒌨𒍪𒄭𒈾|
-  block |:blank(8)𒌓𒈨𒌍|
-  block |:blank(295)|
-  block |:blank(7)𒉺|
-  block |:blank(8)𒅀|
-  block |:blank(8)𒉺𒄯|
-  block |:blank(11)|
+text <(no title)>
+  text <:blank(8)𒁍>
+  text <:blank(7)𒌷𒌨𒍪𒄭𒈾>
+  text <:blank(8)𒌓𒈨𒌍>
+  text <:blank(295)>
+  text <:blank(7)𒉺>
+  text <:blank(8)𒅀>
+  text <:blank(8)𒉺𒄯>
+  text <:blank(11)>
