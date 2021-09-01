@@ -8,12 +8,12 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/show-lang/find/blob/work/look/dock.png?raw=true' height='128'>
+  <img src='https://github.com/baselinkteam/find/blob/work/look/dock.png?raw=true' height='128'>
 </p>
 
-<h3 align='center'>find</h3>
+<h3 align='center'>tree</h3>
 <p align='center'>
-  The Show Information and Computation Library
+  Link Script Information and Computation
 </p>
 
 <p align='center'>
@@ -50,7 +50,7 @@ limitations under the License.
 
 ### Mount
 
-Start is being developed by the open source / open data community and the folks at [Mount](https://mount.build), a California-based project for helping humanity master information and computation. Mount started off in the winter of 2008 as a spark of an idea, to forming a company 10 years later in the winter of 2018, to a seed of a project just beginning its development phases. Mount funds start's development. It is entirely bootstrapped by working full time and running [Etsy](https://etsy.com/shop/mountbuild) and [Amazon](https://www.amazon.com/s?rh=p_27%3AMount+Build) shops. Also find us on [Facebook](https://www.facebook.com/mountbuild), [Twitter](https://twitter.com/mountbuild), and [LinkedIn](https://www.linkedin.com/company/mountbuild). Check out our other GitHub projects as well!
+Tree is being developed by the open source / open data community and the folks at [Mount](https://mount.build), a California-based project for helping humanity master information and computation. Mount started off in the winter of 2008 as a spark of an idea, to forming a company 10 years later in the winter of 2018, to a seed of a project just beginning its development phases. Mount funds tree's development. It is entirely bootstrapped by working full time and running [Etsy](https://etsy.com/shop/mountbuild) and [Amazon](https://www.amazon.com/s?rh=p_27%3AMount+Build) shops. Also find us on [Facebook](https://www.facebook.com/mountbuild), [Twitter](https://twitter.com/mountbuild), and [LinkedIn](https://www.linkedin.com/company/mountbuild). Check out our other GitHub projects as well!
 
 <br/>
 <br/>
