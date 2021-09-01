@@ -7,10 +7,6 @@
 <br/>
 <br/>
 
-<p align='center'>
-  <img src='https://github.com/baselinkteam/find/blob/work/look/dock.png?raw=true' height='128'>
-</p>
-
 <h3 align='center'>tree</h3>
 <p align='center'>
   Link Script Information and Computation
