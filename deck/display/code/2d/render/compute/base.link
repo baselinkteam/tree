@@ -1,7 +1,0 @@
-
-field container
-  force update-transform
-    start house
-
-    cause house/transform/update-transform
-      mount relative, share house/parent

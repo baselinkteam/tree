@@ -1,0 +1,175 @@
+
+find json
+  find form, form value
+
+find value
+  find head
+    find form, form string
+    find form, form number
+    find form, form object
+    find form, form array
+    find form, form boolean
+    find form, form null
+
+find string
+  find form, form quote
+  find list
+    find head
+      find form, form esc
+      find form, form safe-code-point
+  find form, form quote
+
+find quote
+  find text, text #x0022
+
+find safe-code-point
+  find turn
+    find head
+      find text, text <">
+      find text, text <\\>
+      find line
+        seed base, #x0000
+        seed head, #x001F
+
+find number
+  find miss, find form, form minus-sign
+  find head
+    find form, form float
+    find form, form integer
+  find miss, find form, form exponent
+
+find float
+  find form, form integer
+  find form, form decimal-point
+  find beat
+    seed base, text 1
+    find form, form zero-through-nine
+
+find zero-through-nine
+  find line
+    seed base, text #x0030
+    seed head, text #x0039
+
+find one-through-nine
+  find line
+    seed base, text #x0031
+    seed head, text #x0039
+
+find minus-sign
+  find text, text #x002D
+
+find decimal-point
+  find text, text #x002E
+
+find integer
+  find head
+    find text, text #x0030
+    find form, form nonzero-integer
+
+find nonzero-integer
+  find form, form one-through-nine
+  find list
+    find form, form zero-through-nine
+
+find exponent
+  find head
+    find text, text <E>
+    find text, text <e>
+  find miss, find form, form sign
+  find form, form integer
+
+find sign
+  find head
+    find text, text <+>
+    find text, text <->
+
+find object
+  find form, form open-brace
+  find list, find form, form whitespace
+  find miss
+    find form, form pair
+    find list, find form, form whitespace
+    find list
+      find list, find form, form whitespace
+      find form, form comma
+      find list, find form, form whitespace
+      find form, form pair
+      find list, find form, form whitespace
+  find form, form close-brace
+
+find comma
+  find text, text #x002C
+
+find open-brace
+  find text, text #x007B
+
+find close-brace
+  find text, text #x007D
+
+find pair
+  find form, form string
+  find list, find form, form whitespace
+  find form, form colon
+  find list, find form, form whitespace
+  find form, form value
+
+find colon
+  find text, text <:>
+
+find array
+  find text, text #x005B
+  find list, find form, form whitespace
+  find miss
+    find form, form value
+    find list
+      find form, form comma
+      find form, form value
+  find list, find form, form whitespace
+  find text, text #x005D
+
+find boolean
+  find head
+    find text, text <true>
+    find text, text <false>
+
+find null
+  find text, text <null>
+
+find whitespace
+  find head
+    find text, text #x0009
+    find text, text #x000A
+    find text, text #x000D
+    find text, text #x0020
+
+find esc
+  find text, text <\\>
+  find head
+    find head
+      find text, text <">
+      find text, text <\\>
+      find text, text </>
+      find text, text <b>
+      find text, text <f>
+      find text, text <n>
+      find text, text <r>
+      find text, text <t>
+    find form, form unicode
+
+find unicode
+  find text, text <u>
+  find beat
+    seed beat, mark 4
+    find form, form hex
+
+find hex
+  find head
+    find line
+      seed base, text <0>
+      seed head, text <9>
+    find line
+      seed base, text <a>
+      seed head, text <f>
+    find line
+      seed base, text <A>
+      seed head, text <F>

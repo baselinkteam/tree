@@ -1,0 +1,99 @@
+
+load ../field
+  load /term
+    link field term
+  load /source
+    link field source
+  load /template
+    link field template
+
+mind link
+  host term, list term
+
+  mind indented-term, form indented-term
+    line term
+
+  make source
+    seed term, share term
+    lead base
+
+mind indented-term
+  host name
+  host children, list term
+
+  mind name
+    save name
+  mind inline-input
+    line children
+  mind nested-input
+    line children
+
+  make term
+    seed name, share name
+    seed children, share children
+    lead base
+
+mind inline-input
+  mind inline-parenthesized-input
+    mind inline-value, form inline-value
+      lead base
+  mind inline-non-parenthesized-input
+    mind inline-value, form inline-value
+      lead base
+
+mind inline-value
+  host value
+
+  mind number
+    mind integer
+      head write
+
+      call convert-string-to-integer
+        seed string, share write
+        save value
+    mind decimal
+      head write
+
+      call convert-string-to-float
+        seed string, share write
+        save value
+
+  mind code
+    host type
+    host value
+
+    mind lowercase-ascii-letter
+      save type
+    mind word-symbol
+      save value
+
+  mind inline-template
+    mind template-line, form template-line
+
+  mind path
+  mind selector
+
+mind template-line
+  host chunk
+
+  mind inline-string, form inline-string
+    line chunk
+  mind inline-code, form inline-code
+    line chunk
+
+  make template
+    seed chunk, share chunk
+    lead base
+
+mind inline-code
+  mind name
+  mind inline-parenthesized-input
+    mind inline-value, form inline-value
+
+mind nested-input
+  mind nested-template
+    mind multiline-template-body
+      mind template-line
+  mind indented-term
+
+mind inline-string

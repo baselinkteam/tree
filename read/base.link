@@ -1,0 +1,369 @@
+
+head <Tree for Link Script>
+  list line
+    line <The {code(<dock>)} deck>
+    line <The {code(<draw>)} deck>
+    line <The {code(<face>)} deck>
+    line <The {code(<file>)} deck>
+    line <The {code(<form>)} deck>
+    line <The {code(<host>)} deck>
+    line <The {code(<mesh>)} deck>
+    line <The {code(<note>)} deck>
+    line <The {code(<rule>)} deck>
+    line <The {code(<seed>)} deck>
+    line <The {code(<site>)} deck>
+    line <The {code(<term>)} deck>
+    line <The {code(<text>)} deck>
+    line <The {code(<tool>)} deck>
+    line <The {code(<tune>)} deck>
+    line <The {code(<vibe>)} deck>
+    line <The {code(<view>)} deck>
+
+  head <The {code(<dock>)} deck>
+    text <This is the package for defining drivers for link script.>
+
+  head <The {code(<draw>)} deck>
+  head <The {code(<face>)} deck>
+  head <The {code(<file>)} deck>
+  head <The {code(<form>)} deck>
+  head <The {code(<host>)} deck>
+  head <The {code(<mesh>)} deck>
+  head <The {code(<note>)} deck>
+  head <The {code(<rule>)} deck>
+  head <The {code(<seed>)} deck>
+  head <The {code(<site>)} deck>
+  head <The {code(<term>)} deck>
+  head <The {code(<text>)} deck>
+  head <The {code(<tool>)} deck>
+  head <The {code(<tune>)} deck>
+  head <The {code(<vibe>)} deck>
+  head <The {code(<view>)} deck>
+
+mesh
+  fill-coat (color)
+  fill-fade (opacity)
+  side-star (point)
+  side-coat
+  side-fade
+  fade
+  fill
+  mark (id)
+  view (image)
+  hash (shadow)
+  meet (constraints)
+  hint (alt text/title)
+  hill-slot (y)
+  land-slot (x)
+  room-slot (z)
+  land-size (width)
+  hill-size (height)
+  head-hill-rift-size (spacing above)
+  base-hill-rift-size
+  head-land-rift-size
+  base-land-rift-size (spacing to the left)
+  rift-size (spacing around)
+  text-size
+  text-make (font family)
+  text-heft (weight)
+  text-tilt (italics)
+  text
+  flow (flow/layout choices)
+  fold (wrap)
+  make (theme/style)
+  mint (html tag)
+  site (value)
+  hill-skew
+  land-skew
+  turn (rotation)
+  blur (blurring)
+
+  feel (touch/click)
+  take (drag)
+  toss (drop)
+  move (mouse)
+  void (stop mouse movement)
+  mark (focus)
+  blur (blur)
+  dock (select)
+  face (hover)
+  seed (copy)
+  tack (paste)
+  load (mount)
+  free (unmount)
+  roll (wheel)
+  code (type)
+  code-head
+  code-base
+  dash (scroll)
+  tune (animate)
+  zoom-head
+  zoom-base
+  size (resize)
+  hook (update)
+  link (browser connected)
+  link-halt (disconnected)
+
+mesh/base (parent)
+mesh/head (children)
+
+mesh table
+  head title
+
+  host state
+  host state-2
+
+  make filters
+    bind search
+
+  bond computed-value
+    call join
+      bind list, link keywords
+      lead base
+
+  mesh slab
+    mesh input
+      bind fill, link black
+      bind text
+        bind make, link noto-sans
+      bind make, link search
+      bind mint, link input
+      bind site, link filters/search
+      hook text, task search
+    mesh group
+      mesh input
+        bind value, link filters/a
+      mesh input
+        bind value, link filters/b
+      mesh input
+        bind value, link filters/c
+
+  list rows
+    mesh link base
+
+  mesh button
+    hook code, task save
+    bind text, text <Save>
+  mesh button
+    hook code, task cancel
+    bind text, text <Cancel>
+
+mesh verse
+  head trace
+
+  host is-title-visible
+  host is-entering-title
+  host is-leaving-title
+
+  hook mount-start
+    save is-entering-title, link on
+    save is-title-visible, link on
+  hook leave-start
+    save is-leaving-title, link on
+  hook leave
+    save is-title-visible, link off
+
+  mesh title
+    test is-entering-title
+      tune animate-opacity-and-width
+        hook end
+          save is-entering-title, link off
+    test is-leaving-title
+      tune leave
+    test is-title-visible
+
+boolean
+take (true)
+free (false)
+
+mesh glyph-g
+  curl glyph-g-start
+    move x, y
+    line x, y
+    bend cx, cy, x, y
+      turn take
+    bend cx, cy, x, y
+      turn take
+    turn 2
+    arch rx, ry, angle, flag1, flag2, x, y
+      slot free (absolute position)
+    halt lead
+
+tune animate-opacity-and-width
+  beat 0%
+    bind fade, mark 0
+  beat 50%
+    bind fade, mark 0.2
+    bind ease, text <linear>
+  beat 100%
+    bind fade, mark 1
+
+tune animate-opacity-and-width
+  head middle
+
+  time 1s
+    bind fade, mark 0
+  time 0.5
+    bind fade, link middle
+  time 0.5
+    bind fade, mark 1
+
+sack 1, 2, 3, 4, 5, 6
+
+hook /@:host, call load-host
+  hook /:deck, call load-deck
+
+hook --link
+
+tune animate-along-path
+  head middle
+
+  host flow-turn, turn flow-turn
+
+  ride flow-turn-slot
+    save x, computed value
+    save y, computed value
+
+  time 1s
+    bind flow-turn-slot, mark 0
+  time 0.5
+    bind flow-turn-slot, link middle
+  time 0.5
+    bind flow-turn-slot, mark 100%
+
+head <Title>
+date <date>
+host <author>
+word <keyword>
+mark <version>
+note <abstract>
+
+load ./x
+
+lead title
+  mesh ...
+  tree list
+    text <something>
+    text <another>
+  tree mark (numbered list)
+
+  text <text>
+  text <text>
+    bind fill, hash #xff0000
+    make plugin
+
+  list x
+    y
+
+  code link, <
+    code link
+  >
+
+  surf <https://>, text <link title>
+  heft <bold text>
+  tilt <italics text>
+  view <image>
+
+  word x
+  cite <text>
+
+  cast slab (new page)
+
+term <english>
+  talk <pronunciation>
+  text latin, <>
+  text chinese, <>
+  text pinyin, <>
+
+Database queries.
+
+fork user
+  fork email
+  fork name
+  fork location
+    fork lat
+    fork lng
+test match
+  bind base, link user/email
+  bind head, find grammar
+sort user/email, rank head
+lead 100
+base 10 (offset)
+
+text <This is how it might look to fetch data in a GraphQL-like way.>
+
+code link, <
+  seed logged-in-user
+    take user
+      take email
+      take name
+      take location
+        take lat
+        take lng
+    test match
+      bind base, link user/email
+      bind head, find grammar
+    sort user/email, rank head
+    mark 100
+    base 10 (offset)
+>
+
+list x
+  seek x/y
+    test y
+
+fork is the scope.
+
+room
+cast: Everything is a cast (form and task)
+case
+fade
+cone
+cane
+bind (instead of mind)
+time
+stub
+mock
+mint
+hint
+show
+rate
+race
+like
+fast
+tool
+lock
+wait
+look (debugger pause)
+zoom
+sink (boolean)
+rise (boolean true)
+fall (boolean false)
+fold
+fork
+halt
+
+make instead of mind
+bind instead of seed
+
+turn instead of return
+halt for error
+kill for exit
+fill
+
+lock (mutable)
+move (shift)
+loan (borrow)
+mint (clone)
+link (any of these)
+cast instead of toss
+
+fork for this scope
+fork/head for parent
+fork/form for form
+
+base for content in module
+
+show for logging
+time for benchmarking/now
+
+void (undefined)

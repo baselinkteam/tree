@@ -1,8 +1,0 @@
-
-fetch @mountbuild/drive/trace
-  catch trace verse
-
-theme trace
-  trace verse
-
-  state trace, match chain, match field, field trace

@@ -1,4 +1,4 @@
 
-stack @mountbuild/text
-  brief |Text documents|
-  brand |writing|
+deck @drumwork/text
+  text <Text documents>
+  make <writing>

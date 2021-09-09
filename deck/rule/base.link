@@ -1,0 +1,14 @@
+
+deck @drumwork/rule
+  head <Societal Laws and such repo>
+  make <legal>
+  make <law>
+  make <information>
+  make <computation>
+  make <library>
+  host <Lance Pollard>
+  site <lp@elk.fm>
+  link ./link
+  hook ./hook
+  read ./read
+  term <Apache 2.0>

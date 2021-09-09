@@ -1,0 +1,97 @@
+
+hash json
+  hash value, form value
+    turn base
+
+hash value
+  hash string, form string
+    turn base
+  hash number, form number
+    turn base
+  hash object, form object
+    turn base
+  hash array, form array
+    turn base
+  hash boolean, form boolean
+    turn base
+  hash null
+    head text
+    call parse-string-to-null
+      seed text, link text
+      turn base
+
+hash boolean
+  head text
+  call parse-string-to-boolean
+    seed text, link text
+    turn base
+
+hash string
+  host symbol
+
+  hash esc
+    line symbol
+  hash safecodepoint
+    line symbol
+
+  turn base, link symbol
+
+hash number
+  host minus, base false
+  host number
+  hash minus-sign
+    head text
+    test mesh
+      seed base, link text
+      seed head, text <->
+      hook mesh
+        save minus, link true
+  hash integer
+    head text
+    call parse-string-to-integer
+      seed text, link text
+      save number
+  hash float
+    head text
+    call parse-string-to-float
+      seed text, link text
+      save number
+  hash exponent
+    hash sign
+    hash integer
+
+  test mesh
+    seed base, link minus
+    seed head, link true
+    hook mesh
+      call multiply
+        seed base, text -1
+        seed head, link number
+        save number
+
+hash object
+  build object
+    save object
+  hash pair
+    hash string, form string
+      save key
+    hash value, form value
+      hook base
+        head base
+        save object[key], link base
+  turn base, link object
+
+hash array
+  hash value, form value
+    line item
+  turn base, link item
+
+hash esc
+  hash unicode, form unicode
+
+hash unicode
+  hash hex
+    head text
+    call hex-to-unicode-string
+      seed hex, link text
+      turn base
